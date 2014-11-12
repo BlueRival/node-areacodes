@@ -1,0 +1,24 @@
+{
+	"name":            "areacodes",
+	"description":     "An area code lookup tool. Query by phone number, or just export the entire list in object form.",
+	"version":         "0.0.3",
+	"author":          "Anthony Hildoer <anthony@bluerival.com>",
+	"repository":      {
+		"type": "git",
+		"url":  "git@github.com:BlueRival/node-areacodes.git"
+	},
+	"dependencies":    {
+		"doublescore": "0.0.3"
+	},
+	"devDependencies": {
+		"mocha":    "2.0.1"
+	},
+	"keywords":        [
+		"areacode"
+	],
+	"main": 		   "lib/areacodes.js",
+	"engines":         {
+		"node": ">=0.10.0"
+	},
+	"license":         "MIT"
+}
