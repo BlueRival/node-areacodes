@@ -1099,11 +1099,9 @@
 		"city": "hialeah",
 		"state": "florida"
 	},
-	{
-		"800":{
-			"city": "toll-free",
-			"state": "n/a"
-		}
+	"800":{
+		"city": "toll-free",
+		"state": "n/a"
 	},
 	"801": {
 		"city": "ogden",
@@ -1205,11 +1203,9 @@
 		"city": "charleston",
 		"state": "south carolina"
 	},
-	{
-		"844":{
-			"city": "toll-free",
-			"state": "n/a"
-		}
+	"844":{
+		"city": "toll-free",
+		"state": "n/a"
 	},
 	"845": {
 		"city": "kingston",
@@ -1231,11 +1227,9 @@
 		"city": "pensacola",
 		"state": "florida"
 	},
-	{
-		"855":{
-			"city": "toll-free",
-			"state": "n/a"
-		}
+	"855":{
+		"city": "toll-free",
+		"state": "n/a"
 	},
 	"856": {
 		"city": "camden",
@@ -1273,11 +1267,9 @@
 		"city": "knoxville",
 		"state": "tennessee"
 	},
-	{
-		"866":{
-			"city": "toll-free",
-			"state": "n/a"
-		}
+	"866":{
+		"city": "toll-free",
+		"state": "n/a"
 	},
 	"867": {
 		"city": "white horse",
@@ -1299,11 +1291,9 @@
 		"city": "chicago",
 		"state": "illinois"
 	},
-	{
-		"877":{
-			"city": "toll-free",
-			"state": "n/a"
-		}
+	"877": {
+		"city": "toll-free",
+		"state": "n/a"
 	},
 	"876": {
 		"city": "kingston",
@@ -1313,11 +1303,9 @@
 		"city": "pittsburgh",
 		"state": "pennsylvania"
 	},
-	{
-		"888":{
-			"city": "toll-free",
-			"state": "n/a"
-		}
+	"888": {
+		"city": "toll-free",
+		"state": "n/a"
 	},
 	"901": {
 		"city": "memphis",
