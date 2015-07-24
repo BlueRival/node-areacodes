@@ -5,8 +5,8 @@
 	"author":          "Anthony Hildoer <anthony@bluerival.com>",
 	"contributors":    [
 		{
-			name: "Andy Coenen",
-			email: "andrew.coenen@gmail.com"
+			"name": "Andy Coenen",
+			"email": "andrew.coenen@gmail.com"
 		}
 	],
  	"repository":      {
