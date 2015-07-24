@@ -3,7 +3,13 @@
 	"description":     "An area code lookup tool. Query by phone number, or just export the entire list in object form.",
 	"version":         "0.0.3",
 	"author":          "Anthony Hildoer <anthony@bluerival.com>",
-	"repository":      {
+	"contributors":    [
+		{
+			"name": "Andy Coenen",
+			"email": "andrew.coenen@gmail.com"
+		}
+	],
+ 	"repository":      {
 		"type": "git",
 		"url":  "git@github.com:BlueRival/node-areacodes.git"
 	},
