@@ -26,20 +26,12 @@ areaCodes.get( '+1-303-123-4567', function( err, data ) {
 
 ```
 
-Coming Soon
-========
-
-- Latitude and Longitude
-- Alternative cities (for area codes covering multiple major cities)
-- Special area codes, like 800
-- Other countries
-
 License
 ========
 
 (The MIT License)
 
-Copyright (c) 2013 BlueRival Software <anthony@bluerival.com>
+Copyright (c) 2013 BlueRival Software <support@bluerival.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the 'Software'), to deal in
