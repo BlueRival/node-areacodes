@@ -1,15 +1,14 @@
 node-areacodes
 ========
 
-Get the city and state of all U.S. states or look them up one phone number at a time.
+Get the city, state and GPS coordinates of all (as far as we know) U.S. area codes. Look them up one phone number at a time, or dump the entire DB object.
 
-Area Code data is relatively small, so this library stores the data internally. No web service calls or anything like that.
+Area code data is relatively small, so this library stores the data internally. No web service calls or anything like that. It's fast baby.
 
 Usage
 ========
 
-This is all there is to it.
-
+Pull by phone number (requires country code for forward compatibility):
 
 ```
 var AreaCodes = require( 'areacodes' );
@@ -24,6 +23,20 @@ areaCodes.get( '+1-303-123-4567', function( err, data ) {
 
 // output: city/state { city: 'aurora', state: 'colorado' }
 
+```
+
+Get entire DB:
+
+```
+var AreaCodes = require( 'areacodes' );
+
+areaCodes = new AreaCodes();
+
+var areaCodes = new AreaCodes();
+
+areaCodes.getAll( function( err, data ) {
+	console.error( 'all area codes', data );
+} );
 ```
 
 License
