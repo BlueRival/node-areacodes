@@ -391,7 +391,7 @@
    },
    "264":{  
       "type":"local",
-      "city":"st. john\'s",
+      "city":"st. john's",
       "state":"anguilla",
       "location":{  
          "latitude":18.042639,
@@ -411,7 +411,7 @@
    },
    "268":{  
       "type":"local",
-      "city":"st. john\'s",
+      "city":"st. john's",
       "state":"anitgua",
       "location":{  
          "latitude":17.116667,
@@ -1301,7 +1301,7 @@
    },
    "473":{  
       "type":"local",
-      "city":"st. george\'s",
+      "city":"st. george's",
       "state":"grenada",
       "location":{  
          "latitude":12.056097,
