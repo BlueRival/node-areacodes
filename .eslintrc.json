@@ -1,0 +1,64 @@
+{
+  "env": {
+    "es6": true,
+    "mocha": true,
+    "node": true
+  },
+  "extends": "eslint:recommended",
+  "parserOptions": {
+    "ecmaVersion": 2015,
+    "sourceType": "script"
+  },
+  "rules": {
+    "curly": "error",
+    "strict": [
+      "error",
+      "global"
+    ],
+    "eqeqeq": "error",
+    "no-undefined": "error",
+    "vars-on-top": "error",
+    "no-useless-return": "error",
+    "no-unused-expressions": "error",
+    "no-throw-literal": "error",
+    "no-return-assign": "error",
+    "no-new": "error",
+    "no-console": "off",
+    "no-multi-spaces": "error",
+    "no-loop-func": "error",
+    "no-implicit-globals": "error",
+    "no-floating-decimal": "error",
+    "no-extend-native": "error",
+    "no-eq-null": "error",
+    "wrap-iife": [ "error", "inside" ],
+    "guard-for-in": "error",
+    "default-case": "error",
+    "dot-location": [ "error", "property" ],
+    "indent": [
+      "error",
+      "tab",
+      {
+        "SwitchCase": 1
+      }
+    ],
+    "dot-notation": [ "error", { "allowKeywords": true } ],
+    "linebreak-style": [
+      "error",
+      "unix"
+    ],
+    "quotes": [
+      "error",
+      "single"
+    ],
+    "semi": [
+      "error",
+      "always"
+    ],
+    "getter-return": [
+      "error",
+      {
+        "allowImplicit": false
+      }
+    ]
+  }
+}
