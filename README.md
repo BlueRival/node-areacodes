@@ -7,7 +7,7 @@ Area code data is relatively small, so this library stores the data internally, 
 
 Memory impact should be < 100KB.
 
-###A Note on Accuracy
+### A Note on Accuracy
 
 Area codes are not geographically precise things. Technically some spam country borders, let alone stick to a single 
 city, or even U.S. State. Therefore it is best to treat all the geographic data as good to within +/- 200 miles. 
@@ -30,6 +30,7 @@ Usage
 Pull by phone number (include country code or not, but only 1, United States, is supported). Also, many phone number formats
 are supported:
 
+```txt
 +1-###-###-####
 1-###-###-####
 ###-###-####
@@ -43,10 +44,11 @@ are supported:
 1##########
 ##########
 etc.
+```
 
 Basically, if there are 10-11 digits (first digit being 1 if 11) in the format, it should parse fine.
 
-```
+```javascript
 let AreaCodes = require( 'areacodes' );
 
 let areaCodes = new AreaCodes();
