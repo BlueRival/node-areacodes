@@ -1,417 +1,423 @@
 {
 	"201": {
 		"type": "local",
-		"city": "bayonne",
-		"state": "new jersey",
+		"city": "Bayonne",
+		"state": "New Jersey",
+		"stateCode": "NJ",
 		"location": {
-			"latitude": 40.668714,
-			"longitude": -74.114309
+			"latitude": 40.925692,
+			"longitude": -74.073135
 		}
 	},
 	"202": {
 		"type": "local",
-		"city": "washington",
-		"state": "district of columbia",
+		"city": "Washington",
+		"state": "District Of Columbia",
+		"stateCode": "DC",
 		"location": {
-			"latitude": 38.907192,
-			"longitude": -77.036870
+			"latitude": 38.904789,
+			"longitude": -77.016273
 		}
 	},
 	"203": {
 		"type": "local",
-		"city": "bridgeport",
-		"state": "connecticut",
+		"city": "Bridgeport",
+		"state": "Connecticut",
+		"stateCode": "CT",
 		"location": {
-			"latitude": 41.186547,
-			"longitude": -73.195176
-		}
-	},
-	"204": {
-		"type": "local",
-		"city": "brandon",
-		"state": "manitoba",
-		"location": {
-			"latitude": 49.848471,
-			"longitude": -99.950090
+			"latitude": 41.341175,
+			"longitude": -73.167001
 		}
 	},
 	"205": {
 		"type": "local",
-		"city": "birmingham",
-		"state": "alabama",
+		"city": "Birmingham",
+		"state": "Alabama",
 		"location": {
-			"latitude": 33.520660,
-			"longitude": -86.802489
-		}
+			"latitude": 33.369918,
+			"longitude": -87.418475
+		},
+		"stateCode": "AL"
 	},
 	"206": {
 		"type": "local",
-		"city": "seattle",
-		"state": "washington",
+		"city": "Seattle",
+		"state": "Washington",
 		"location": {
-			"latitude": 47.606209,
-			"longitude": -122.332070
-		}
+			"latitude": 47.56621,
+			"longitude": -122.395643
+		},
+		"stateCode": "WA"
 	},
 	"207": {
 		"type": "local",
-		"city": "portland",
-		"state": "maine",
+		"city": "Portland",
+		"state": "Maine",
 		"location": {
-			"latitude": 43.661471,
-			"longitude": -70.255325
-		}
+			"latitude": 45.30897,
+			"longitude": -69.1782
+		},
+		"stateCode": "ME"
 	},
 	"208": {
 		"type": "local",
-		"city": "boise",
-		"state": "idaho",
+		"city": "Boise",
+		"state": "Idaho",
 		"location": {
-			"latitude": 43.618710,
-			"longitude": -116.214606
-		}
+			"latitude": 44.38906,
+			"longitude": -114.659367
+		},
+		"stateCode": "ID"
 	},
 	"209": {
 		"type": "local",
-		"city": "lodi",
-		"state": "california",
+		"city": "Lodi",
+		"state": "California",
 		"location": {
-			"latitude": 38.134147,
-			"longitude": -121.272219
-		}
+			"latitude": 37.810234,
+			"longitude": -120.524619
+		},
+		"stateCode": "CA"
 	},
 	"210": {
 		"type": "local",
-		"city": "san antonio",
-		"state": "texas",
+		"city": "San Antonio",
+		"state": "Texas",
 		"location": {
-			"latitude": 29.424121,
-			"longitude": -98.493628
-		}
+			"latitude": 29.446946,
+			"longitude": -98.502244
+		},
+		"stateCode": "TX"
 	},
 	"212": {
 		"type": "local",
-		"city": "new york city",
-		"state": "new york",
+		"city": "New York City",
+		"state": "New York",
 		"location": {
-			"latitude": 40.712783,
-			"longitude": -74.005941
-		}
+			"latitude": 40.781428,
+			"longitude": -73.965434
+		},
+		"stateCode": "NY"
 	},
 	"213": {
 		"type": "local",
-		"city": "los angeles",
-		"state": "california",
+		"city": "Los Angeles",
+		"state": "California",
 		"location": {
-			"latitude": 34.052234,
-			"longitude": -118.243684
-		}
+			"latitude": 34.049442,
+			"longitude": -118.266392
+		},
+		"stateCode": "CA"
 	},
 	"214": {
 		"type": "local",
-		"city": "dallas",
-		"state": "texas",
+		"city": "Dallas",
+		"state": "Texas",
 		"location": {
-			"latitude": 32.776664,
-			"longitude": -96.796987
-		}
+			"latitude": 32.771888,
+			"longitude": -96.647071
+		},
+		"stateCode": "TX"
 	},
 	"215": {
 		"type": "local",
-		"city": "levittown",
-		"state": "pennsylvania",
+		"city": "Levittown",
+		"state": "Pennsylvania",
 		"location": {
-			"latitude": 40.155109,
-			"longitude": -74.828774
-		}
+			"latitude": 40.241084,
+			"longitude": -75.15556
+		},
+		"stateCode": "PA"
 	},
 	"216": {
 		"type": "local",
-		"city": "cleveland",
-		"state": "ohio",
+		"city": "Cleveland",
+		"state": "Ohio",
 		"location": {
-			"latitude": 41.49932,
-			"longitude": -81.694360
-		}
+			"latitude": 41.466283,
+			"longitude": -81.630237
+		},
+		"stateCode": "OH"
 	},
 	"217": {
 		"type": "local",
-		"city": "champaign",
-		"state": "illinois",
+		"city": "Champaign",
+		"state": "Illinois",
 		"location": {
-			"latitude": 40.116420,
-			"longitude": -88.243382
-		}
+			"latitude": 39.787445,
+			"longitude": -89.339116
+		},
+		"stateCode": "IL"
 	},
 	"218": {
 		"type": "local",
-		"city": "duluth",
-		"state": "minnesota",
+		"city": "Duluth",
+		"state": "Minnesota",
 		"location": {
-			"latitude": 46.786671,
-			"longitude": -92.100485
-		}
+			"latitude": 47.617058,
+			"longitude": -94.077273
+		},
+		"stateCode": "MN"
 	},
 	"219": {
 		"type": "local",
-		"city": "gary",
-		"state": "indiana",
+		"city": "Gary",
+		"state": "Indiana",
 		"location": {
-			"latitude": 41.593369,
-			"longitude": -87.346427
-		}
+			"latitude": 41.167422,
+			"longitude": -86.10073
+		},
+		"stateCode": "IN"
+	},
+	"220": {
+		"type": "local",
+		"city": "Athens",
+		"state": "Ohio",
+		"location": {
+			"latitude": 39.68925,
+			"longitude": -82.238329
+		},
+		"stateCode": "OH"
+	},
+	"223": {
+		"type": "local",
+		"city": "Lancaster",
+		"state": "Pennsylvania",
+		"location": {
+			"latitude": 40.155116,
+			"longitude": -77.060091
+		},
+		"stateCode": "PA"
 	},
 	"224": {
 		"type": "local",
-		"city": "arlington heights",
-		"state": "illinois",
+		"city": "Arlington Heights",
+		"state": "Illinois",
 		"location": {
-			"latitude": 42.088360,
-			"longitude": -87.980626
-		}
+			"latitude": 42.195629,
+			"longitude": -88.103663
+		},
+		"stateCode": "IL"
 	},
 	"225": {
 		"type": "local",
-		"city": "baton rouge",
-		"state": "louisiana",
+		"city": "Baton Rouge",
+		"state": "Louisiana",
 		"location": {
-			"latitude": 30.458282,
-			"longitude": -91.140319
-		}
-	},
-	"226": {
-		"type": "local",
-		"city": "kitchener",
-		"state": "ontario",
-		"location": {
-			"latitude": 43.412923,
-			"longitude": -80.477147
-		}
+			"latitude": 30.529115,
+			"longitude": -91.114891
+		},
+		"stateCode": "LA"
 	},
 	"227": {
 		"type": "local",
-		"city": "silver spring",
-		"state": "maryland",
+		"city": "Silver Spring",
+		"state": "Maryland",
 		"location": {
 			"latitude": 38.990665,
 			"longitude": -77.026088
-		}
+		},
+		"stateCode": "MD"
 	},
 	"228": {
 		"type": "local",
-		"city": "biloxi",
-		"state": "mississippi",
+		"city": "Biloxi",
+		"state": "Mississippi",
 		"location": {
-			"latitude": 30.396031,
-			"longitude": -88.885307
-		}
+			"latitude": 30.498325,
+			"longitude": -88.990244
+		},
+		"stateCode": "MS"
 	},
 	"229": {
 		"type": "local",
-		"city": "albany",
-		"state": "georgia",
+		"city": "Albany",
+		"state": "Georgia",
 		"location": {
-			"latitude": 31.578507,
-			"longitude": -84.155740
-		}
+			"latitude": 31.473049,
+			"longitude": -84.033645
+		},
+		"stateCode": "GA"
 	},
 	"231": {
 		"type": "local",
-		"city": "grant",
-		"state": "michigan",
+		"city": "Grant",
+		"state": "Michigan",
 		"location": {
-			"latitude": 43.336132,
-			"longitude": -85.810881
-		}
+			"latitude": 44.567455,
+			"longitude": -85.470799
+		},
+		"stateCode": "MI"
 	},
 	"234": {
 		"type": "local",
-		"city": "akron",
-		"state": "ohio",
+		"city": "Akron",
+		"state": "Ohio",
 		"location": {
-			"latitude": 41.081444,
-			"longitude": -81.519005
-		}
+			"latitude": 40.909482,
+			"longitude": -81.309358
+		},
+		"stateCode": "OH"
 	},
 	"239": {
 		"type": "local",
-		"city": "cape coral",
-		"state": "florida",
+		"city": "Cape Coral",
+		"state": "Florida",
 		"location": {
-			"latitude": 26.562853,
-			"longitude": -81.949533
-		}
+			"latitude": 26.069419,
+			"longitude": -81.419083
+		},
+		"stateCode": "FL"
 	},
 	"240": {
 		"type": "local",
-		"city": "aspen hill",
-		"state": "maryland",
+		"city": "Aspen Hill",
+		"state": "Maryland",
 		"location": {
-			"latitude": 39.079552,
-			"longitude": -77.073033
-		}
-	},
-	"242": {
-		"type": "local",
-		"city": "freeport",
-		"state": "bahamas",
-		"location": {
-			"latitude": 26.528472,
-			"longitude": -78.696582
-		}
-	},
-	"246": {
-		"type": "local",
-		"city": "bridgetown",
-		"state": "barbados",
-		"location": {
-			"latitude": 13.113221,
-			"longitude": -59.598808
-		}
+			"latitude": 39.077466,
+			"longitude": -77.839196
+		},
+		"stateCode": "MD"
 	},
 	"248": {
 		"type": "local",
-		"city": "farmington hills",
-		"state": "michigan",
+		"city": "Farmington Hills",
+		"state": "Michigan",
 		"location": {
-			"latitude": 42.498993,
-			"longitude": -83.367716
-		}
-	},
-	"249": {
-		"type": "local",
-		"city": "sault ste. marie",
-		"state": "ontario",
-		"location": {
-			"latitude": 46.495299,
-			"longitude": -84.345316
-		}
+			"latitude": 42.644892,
+			"longitude": -83.401584
+		},
+		"stateCode": "MI"
 	},
 	"251": {
 		"type": "local",
-		"city": "mobile",
-		"state": "alabama",
+		"city": "Mobile",
+		"state": "Alabama",
 		"location": {
-			"latitude": 30.695365,
-			"longitude": -88.039891
-		}
+			"latitude": 31.216421,
+			"longitude": -87.652638
+		},
+		"stateCode": "AL"
 	},
 	"252": {
 		"type": "local",
-		"city": "elizabeth city",
-		"state": "north carolina",
+		"city": "Elizabeth City",
+		"state": "North Carolina",
 		"location": {
-			"latitude": 36.294600,
-			"longitude": -76.251046
-		}
+			"latitude": 35.685581,
+			"longitude": -76.934414
+		},
+		"stateCode": "NC"
 	},
 	"253": {
 		"type": "local",
-		"city": "kent",
-		"state": "washington",
+		"city": "Kent",
+		"state": "Washington",
 		"location": {
-			"latitude": 47.380933,
-			"longitude": -122.234843
-		}
+			"latitude": 47.215973,
+			"longitude": -122.433656
+		},
+		"stateCode": "WA"
 	},
 	"254": {
 		"type": "local",
-		"city": "eastland",
-		"state": "texas",
+		"city": "Eastland",
+		"state": "Texas",
 		"location": {
-			"latitude": 32.401519,
-			"longitude": -98.817562
-		}
+			"latitude": 31.764308,
+			"longitude": -97.710172
+		},
+		"stateCode": "TX"
 	},
 	"256": {
 		"type": "local",
-		"city": "decatur",
-		"state": "alabama",
+		"city": "Decatur",
+		"state": "Alabama",
 		"location": {
-			"latitude": 34.605925,
-			"longitude": -86.983341
-		}
+			"latitude": 34.148987,
+			"longitude": -86.452873
+		},
+		"stateCode": "AL"
 	},
 	"260": {
 		"type": "local",
-		"city": "fort wayne",
-		"state": "indiana",
+		"city": "Fort Wayne",
+		"state": "Indiana",
 		"location": {
-			"latitude": 41.079273,
-			"longitude": -85.139351
-		}
+			"latitude": 41.093442,
+			"longitude": -85.241781
+		},
+		"stateCode": "IN"
 	},
 	"262": {
 		"type": "local",
-		"city": "kenosha",
-		"state": "wisconsin",
+		"city": "Kenosha",
+		"state": "Wisconsin",
 		"location": {
-			"latitude": 42.584742,
-			"longitude": -87.821185
-		}
-	},
-	"264": {
-		"type": "local",
-		"city": "st. john's",
-		"state": "anguilla",
-		"location": {
-			"latitude": 18.042639,
-			"longitude": -63.105855
-		}
+			"latitude": 42.950573,
+			"longitude": -88.283516
+		},
+		"stateCode": "WI"
 	},
 	"267": {
 		"type": "local",
-		"city": "levittown",
-		"state": "pennsylvania",
+		"city": "Levittown",
+		"state": "Pennsylvania",
 		"location": {
-			"latitude": 40.155109,
-			"longitude": -74.828774
-		}
-	},
-	"268": {
-		"type": "local",
-		"city": "st. john's",
-		"state": "anitgua",
-		"location": {
-			"latitude": 17.116667,
-			"longitude": -61.849999
-		}
+			"latitude": 40.241084,
+			"longitude": -75.15556
+		},
+		"stateCode": "PA"
 	},
 	"269": {
 		"type": "local",
-		"city": "allegan",
-		"state": "michigan",
+		"city": "Allegan",
+		"state": "Michigan",
 		"location": {
-			"latitude": 42.529198,
-			"longitude": -85.855303
-		}
+			"latitude": 42.211698,
+			"longitude": -85.741985
+		},
+		"stateCode": "MI"
 	},
 	"270": {
 		"type": "local",
-		"city": "bowling green",
-		"state": "kentucky",
+		"city": "Bowling Green",
+		"state": "Kentucky",
 		"location": {
-			"latitude": 36.968521,
-			"longitude": -86.480804
-		}
+			"latitude": 37.105285,
+			"longitude": -88.166884
+		},
+		"stateCode": "KY"
+	},
+	"272": {
+		"type": "local",
+		"stateCode": "PA",
+		"location": {
+			"latitude": 41.329586,
+			"longitude": -76.0678680461039
+		},
+		"state": "Pennsylvania",
+		"city": "Back Mountain"
 	},
 	"274": {
 		"type": "local",
-		"city": "green bay",
-		"state": "wisconsin",
+		"city": "Green Bay",
+		"state": "Wisconsin",
 		"location": {
 			"latitude": 44.519158,
 			"longitude": -88.019826
-		}
+		},
+		"stateCode": "WI"
 	},
 	"276": {
 		"type": "local",
-		"city": "danville",
-		"state": "virginia",
+		"city": "Danville",
+		"state": "Virginia",
 		"location": {
-			"latitude": 36.585971,
-			"longitude": -79.395022
-		}
+			"latitude": 36.87419,
+			"longitude": -81.622088
+		},
+		"stateCode": "VA"
 	},
 	"278": {
 		"type": "local",
@@ -420,1546 +426,1588 @@
 		"location": {
 			"latitude": 42.280825,
 			"longitude": -83.743037
-		}
+		},
+		"stateCode": "MI"
+	},
+	"279": {
+		"type": "local",
+		"stateCode": "CA",
+		"location": {
+			"latitude": 38.6039613,
+			"longitude": -121.383003529994
+		},
+		"state": "California",
+		"city": "Arden-Arcade"
 	},
 	"281": {
 		"type": "local",
-		"city": "baytown",
-		"state": "texas",
+		"city": "Baytown",
+		"state": "Texas",
 		"location": {
-			"latitude": 29.735504,
-			"longitude": -94.977427
-		}
+			"latitude": 29.837525,
+			"longitude": -95.377346
+		},
+		"stateCode": "TX"
 	},
 	"283": {
 		"type": "local",
-		"city": "cincinnati",
-		"state": "ohio",
+		"city": "Cincinnati",
+		"state": "Ohio",
 		"location": {
 			"latitude": 39.103118,
 			"longitude": -84.512019
-		}
-	},
-	"284": {
-		"type": "local",
-		"city": "road town",
-		"state": "british virgin islands",
-		"location": {
-			"latitude": 18.431389,
-			"longitude": -64.623055
-		}
-	},
-	"289": {
-		"type": "local",
-		"city": "brampton",
-		"state": "ontario",
-		"location": {
-			"latitude": 43.731547,
-			"longitude": -79.762417
-		}
+		},
+		"stateCode": "OH"
 	},
 	"301": {
 		"type": "local",
-		"city": "aspen hill",
-		"state": "maryland",
+		"city": "Aspen Hill",
+		"state": "Maryland",
 		"location": {
-			"latitude": 39.079552,
-			"longitude": -77.073033
-		}
+			"latitude": 39.077466,
+			"longitude": -77.839196
+		},
+		"stateCode": "MD"
 	},
 	"302": {
 		"type": "local",
-		"city": "dover",
-		"state": "delaware",
+		"city": "Dover",
+		"state": "Delaware",
 		"location": {
-			"latitude": 39.158168,
-			"longitude": -75.524368
-		}
+			"latitude": 39.073022,
+			"longitude": -75.462006
+		},
+		"stateCode": "DE"
 	},
 	"303": {
 		"type": "local",
-		"city": "aurora",
-		"state": "colorado",
+		"city": "Aurora",
+		"state": "Colorado",
 		"location": {
-			"latitude": 39.729431,
-			"longitude": -104.831919
-		}
+			"latitude": 39.713461,
+			"longitude": -104.82857
+		},
+		"stateCode": "CO"
 	},
 	"304": {
 		"type": "local",
-		"city": "charleston",
-		"state": "west virginia",
+		"city": "Charleston",
+		"state": "West Virginia",
 		"location": {
-			"latitude": 38.349819,
-			"longitude": -81.632623
-		}
+			"latitude": 38.642574,
+			"longitude": -80.61372
+		},
+		"stateCode": "WV"
 	},
 	"305": {
 		"type": "local",
-		"city": "miami",
-		"state": "florida",
+		"city": "Miami",
+		"state": "Florida",
 		"location": {
-			"latitude": 25.761679,
-			"longitude": -80.191790
-		}
-	},
-	"306": {
-		"type": "local",
-		"city": "regina",
-		"state": "saskathcewan",
-		"location": {
-			"latitude": 50.454722,
-			"longitude": -104.606667
-		}
+			"latitude": 25.300831,
+			"longitude": -80.856754
+		},
+		"stateCode": "FL"
 	},
 	"307": {
 		"type": "local",
-		"city": "casper",
-		"state": "wyoming",
+		"city": "Casper",
+		"state": "Wyoming",
 		"location": {
-			"latitude": 42.866632,
-			"longitude": -106.313081
-		}
+			"latitude": 42.999627,
+			"longitude": -107.551447
+		},
+		"stateCode": "WY"
 	},
 	"308": {
 		"type": "local",
-		"city": "kearney",
-		"state": "nebraska",
+		"city": "Kearney",
+		"state": "Nebraska",
 		"location": {
-			"latitude": 40.699330,
-			"longitude": -99.081678
-		}
+			"latitude": 41.454586,
+			"longitude": -101.145726
+		},
+		"stateCode": "NE"
 	},
 	"309": {
 		"type": "local",
-		"city": "bloomington",
-		"state": "illinois",
+		"city": "Bloomington",
+		"state": "Illinois",
 		"location": {
-			"latitude": 40.484202,
-			"longitude": -88.993687
-		}
+			"latitude": 40.802537,
+			"longitude": -89.95696
+		},
+		"stateCode": "IL"
 	},
 	"310": {
 		"type": "local",
-		"city": "los angeles",
-		"state": "california",
+		"city": "Los Angeles",
+		"state": "California",
 		"location": {
-			"latitude": 34.052234,
-			"longitude": -118.243684
-		}
+			"latitude": 33.515574,
+			"longitude": -118.777633
+		},
+		"stateCode": "CA"
 	},
 	"312": {
 		"type": "local",
-		"city": "chicago",
-		"state": "illinois",
+		"city": "Chicago",
+		"state": "Illinois",
 		"location": {
-			"latitude": 41.878113,
-			"longitude": -87.629798
-		}
+			"latitude": 41.873277,
+			"longitude": -87.645204
+		},
+		"stateCode": "IL"
 	},
 	"313": {
 		"type": "local",
-		"city": "dearborn",
-		"state": "michigan",
+		"city": "Dearborn",
+		"state": "Michigan",
 		"location": {
-			"latitude": 42.322259,
-			"longitude": -83.176314
-		}
+			"latitude": 42.345428,
+			"longitude": -83.146191
+		},
+		"stateCode": "MI"
 	},
 	"314": {
 		"type": "local",
-		"city": "florissant",
-		"state": "missouri",
+		"city": "Florissant",
+		"state": "Missouri",
 		"location": {
-			"latitude": 38.789217,
-			"longitude": -90.322614
-		}
+			"latitude": 38.67023,
+			"longitude": -90.337973
+		},
+		"stateCode": "MO"
 	},
 	"315": {
 		"type": "local",
-		"city": "syracuse",
-		"state": "new york",
+		"city": "Syracuse",
+		"state": "New York",
 		"location": {
-			"latitude": 43.048122,
-			"longitude": -76.147424
-		}
+			"latitude": 43.557021,
+			"longitude": -75.737581
+		},
+		"stateCode": "NY"
 	},
 	"316": {
 		"type": "local",
-		"city": "wichita",
-		"state": "kansas",
+		"city": "Wichita",
+		"state": "Kansas",
 		"location": {
-			"latitude": 37.688889,
-			"longitude": -97.336111
-		}
+			"latitude": 37.75168,
+			"longitude": -97.247515
+		},
+		"stateCode": "KS"
 	},
 	"317": {
 		"type": "local",
-		"city": "indianapolis",
-		"state": "indiana",
+		"city": "Indianapolis",
+		"state": "Indiana",
 		"location": {
-			"latitude": 39.768403,
-			"longitude": -86.158068
-		}
+			"latitude": 39.766543,
+			"longitude": -86.128131
+		},
+		"stateCode": "IN"
 	},
 	"318": {
 		"type": "local",
-		"city": "bossier city",
-		"state": "louisiana",
+		"city": "Bossier City",
+		"state": "Louisiana",
 		"location": {
-			"latitude": 32.515985,
-			"longitude": -93.732122
-		}
+			"latitude": 32.062174,
+			"longitude": -92.544682
+		},
+		"stateCode": "LA"
 	},
 	"319": {
 		"type": "local",
-		"city": "cedar rapids",
-		"state": "iowa",
+		"city": "Cedar Rapids",
+		"state": "Iowa",
 		"location": {
-			"latitude": 41.977879,
-			"longitude": -91.665623
-		}
+			"latitude": 42.107799,
+			"longitude": -91.562776
+		},
+		"stateCode": "IA"
 	},
 	"320": {
 		"type": "local",
-		"city": "alexandria",
-		"state": "minnesota",
+		"city": "Alexandria",
+		"state": "Minnesota",
 		"location": {
-			"latitude": 45.884816,
-			"longitude": -95.377666
-		}
+			"latitude": 45.52735,
+			"longitude": -94.793149
+		},
+		"stateCode": "MN"
 	},
 	"321": {
 		"type": "local",
-		"city": "melbourne",
-		"state": "florida",
+		"city": "Melbourne",
+		"state": "Florida",
 		"location": {
-			"latitude": 28.083626,
-			"longitude": -80.608108
-		}
+			"latitude": 28.303802,
+			"longitude": -81.066529
+		},
+		"stateCode": "FL"
 	},
 	"323": {
 		"type": "local",
-		"city": "los angeles",
-		"state": "california",
+		"city": "Los Angeles",
+		"state": "California",
 		"location": {
-			"latitude": 34.052234,
-			"longitude": -118.243684
-		}
+			"latitude": 34.037423,
+			"longitude": -118.254201
+		},
+		"stateCode": "CA"
 	},
 	"325": {
 		"type": "local",
-		"city": "abilene",
-		"state": "texas",
+		"city": "Abilene",
+		"state": "Texas",
 		"location": {
-			"latitude": 32.448736,
-			"longitude": -99.733143
-		}
+			"latitude": 31.544876,
+			"longitude": -100.102418
+		},
+		"stateCode": "TX"
+	},
+	"326": {
+		"type": "local",
+		"city": "Dayton",
+		"state": "Ohio",
+		"location": {
+			"latitude": 39.737478,
+			"longitude": -83.943091
+		},
+		"stateCode": "OH"
+	},
+	"327": {
+		"type": "local",
+		"city": "Jonesboro",
+		"state": "Arkansas",
+		"location": {
+			"latitude": 34.729392,
+			"longitude": -92.083437
+		},
+		"stateCode": "AR"
 	},
 	"330": {
 		"type": "local",
-		"city": "akron",
-		"state": "ohio",
+		"city": "Akron",
+		"state": "Ohio",
 		"location": {
-			"latitude": 41.081444,
-			"longitude": -81.519005
-		}
+			"latitude": 40.909482,
+			"longitude": -81.309358
+		},
+		"stateCode": "OH"
 	},
 	"331": {
 		"type": "local",
-		"city": "aurora",
-		"state": "illinois",
+		"city": "Aurora",
+		"state": "Illinois",
 		"location": {
-			"latitude": 41.760584,
-			"longitude": -88.320071
-		}
+			"latitude": 41.810713,
+			"longitude": -88.254341
+		},
+		"stateCode": "IL"
+	},
+	"332": {
+		"type": "local",
+		"stateCode": "NY",
+		"location": {
+			"latitude": 40.7900869,
+			"longitude": -73.9598295
+		},
+		"state": "New York",
+		"city": "Manhattan"
 	},
 	"334": {
 		"type": "local",
-		"city": "auburn",
-		"state": "alabama",
+		"city": "Auburn",
+		"state": "Alabama",
 		"location": {
-			"latitude": 32.609856,
-			"longitude": -85.480782
-		}
+			"latitude": 31.748015,
+			"longitude": -86.710752
+		},
+		"stateCode": "AL"
 	},
 	"336": {
 		"type": "local",
-		"city": "greensboro",
-		"state": "north carolina",
+		"city": "Greensboro",
+		"state": "North Carolina",
 		"location": {
-			"latitude": 36.072635,
-			"longitude": -79.791975
-		}
+			"latitude": 36.165262,
+			"longitude": -80.203652
+		},
+		"stateCode": "NC"
 	},
 	"337": {
 		"type": "local",
-		"city": "lafayette",
-		"state": "louisiana",
+		"city": "Lafayette",
+		"state": "Louisiana",
 		"location": {
-			"latitude": 30.224089,
-			"longitude": -92.019842
-		}
+			"latitude": 30.363876,
+			"longitude": -92.68289
+		},
+		"stateCode": "LA"
 	},
 	"339": {
 		"type": "local",
-		"city": "lynn",
-		"state": "massachusetts",
+		"city": "Lynn",
+		"state": "Massachusetts",
 		"location": {
-			"latitude": 42.466763,
-			"longitude": -70.949493
-		}
+			"latitude": 42.255792,
+			"longitude": -70.993819
+		},
+		"stateCode": "MA"
 	},
 	"340": {
 		"type": "local",
 		"city": "charlotte amalie",
 		"state": "us virgin islands",
 		"location": {
-			"latitude": 18.341900,
-			"longitude": -64.930700
-		}
+			"latitude": 18.3419,
+			"longitude": -64.9307
+		},
+		"stateCode": "VI"
 	},
 	"341": {
 		"type": "local",
-		"city": "oakland",
-		"state": "california",
+		"city": "Oakland",
+		"state": "California",
 		"location": {
 			"latitude": 37.804363,
 			"longitude": -122.271113
-		}
+		},
+		"stateCode": "CA"
 	},
-	"343": {
+	"346": {
 		"type": "local",
-		"city": "ottawa",
-		"state": "ontario",
+		"stateCode": "TX",
 		"location": {
-			"latitude": 45.421529,
-			"longitude": -75.697193
-		}
-	},
-	"345": {
-		"type": "local",
-		"city": "george town",
-		"state": "caiman islands",
-		"location": {
-			"latitude": 19.286932,
-			"longitude": -81.367439
-		}
+			"latitude": 29.4238472,
+			"longitude": -95.2441009
+		},
+		"state": "Texas",
+		"city": "Alvin"
 	},
 	"347": {
 		"type": "local",
-		"city": "bronx",
-		"state": "new york",
+		"city": "Bronx",
+		"state": "New York",
 		"location": {
-			"latitude": 40.844781,
-			"longitude": -73.864826
-		}
+			"latitude": 40.685997,
+			"longitude": -73.935788
+		},
+		"stateCode": "NY"
 	},
 	"351": {
 		"type": "local",
-		"city": "haverhill",
-		"state": "massachusetts",
+		"city": "Haverhill",
+		"state": "Massachusetts",
 		"location": {
-			"latitude": 42.776201,
-			"longitude": -71.077279
-		}
+			"latitude": 42.587448,
+			"longitude": -71.595462
+		},
+		"stateCode": "MA"
 	},
 	"352": {
 		"type": "local",
-		"city": "gainesville",
-		"state": "florida",
+		"city": "Gainesville",
+		"state": "Florida",
 		"location": {
-			"latitude": 29.651634,
-			"longitude": -82.324826
-		}
+			"latitude": 29.166672,
+			"longitude": -82.335163
+		},
+		"stateCode": "FL"
 	},
 	"360": {
 		"type": "local",
-		"city": "bellingham",
-		"state": "washington",
+		"city": "Bellingham",
+		"state": "Washington",
 		"location": {
-			"latitude": 48.74908,
-			"longitude": -122.478147
-		}
+			"latitude": 47.453869,
+			"longitude": -122.407745
+		},
+		"stateCode": "WA"
 	},
 	"361": {
 		"type": "local",
-		"city": "corpus christi",
-		"state": "texas",
+		"city": "Corpus Christi",
+		"state": "Texas",
 		"location": {
-			"latitude": 27.800582,
-			"longitude": -97.396380
-		}
+			"latitude": 28.075417,
+			"longitude": -97.67658
+		},
+		"stateCode": "TX"
 	},
 	"364": {
 		"type": "local",
-		"city": "owensboro",
-		"state": "kentucky",
+		"city": "Owensboro",
+		"state": "Kentucky",
 		"location": {
-			"latitude": 37.771907,
-			"longitude": -87.111167
-		}
+			"latitude": 37.105285,
+			"longitude": -88.166884
+		},
+		"stateCode": "KY"
 	},
 	"369": {
 		"type": "local",
 		"city": "santa rosa",
-		"state": "california",
+		"state": "California",
 		"location": {
 			"latitude": 38.440429,
 			"longitude": -122.714054
-		}
+		},
+		"stateCode": "CA"
 	},
 	"380": {
 		"type": "local",
-		"city": "columbus",
-		"state": "ohio",
+		"city": "Columbus",
+		"state": "Ohio",
 		"location": {
 			"latitude": 39.961175,
 			"longitude": -82.998794
-		}
+		},
+		"stateCode": "OH"
 	},
 	"385": {
 		"type": "local",
-		"city": "ogden",
-		"state": "utah",
+		"city": "Ogden",
+		"state": "Utah",
 		"location": {
-			"latitude": 41.223,
-			"longitude": -111.973830
-		}
+			"latitude": 40.617162,
+			"longitude": -111.805673
+		},
+		"stateCode": "UT"
 	},
 	"386": {
 		"type": "local",
-		"city": "daytona beach",
-		"state": "florida",
+		"city": "Daytona Beach",
+		"state": "Florida",
 		"location": {
-			"latitude": 29.210814,
-			"longitude": -81.022833
-		}
+			"latitude": 29.755314,
+			"longitude": -82.175609
+		},
+		"stateCode": "FL"
 	},
 	"401": {
 		"type": "local",
-		"city": "cranston",
-		"state": "rhode island",
+		"city": "Cranston",
+		"state": "Rhode Island",
 		"location": {
-			"latitude": 41.779822,
-			"longitude": -71.437279
-		}
+			"latitude": 41.604967,
+			"longitude": -71.5344
+		},
+		"stateCode": "RI"
 	},
 	"402": {
 		"type": "local",
-		"city": "columbus",
-		"state": "nebraska",
+		"city": "Columbus",
+		"state": "Nebraska",
 		"location": {
-			"latitude": 41.430297,
-			"longitude": -97.359390
-		}
-	},
-	"403": {
-		"type": "local",
-		"city": "calgary",
-		"state": "alberta",
-		"location": {
-			"latitude": 51.048615,
-			"longitude": -114.070845
-		}
+			"latitude": 41.623995,
+			"longitude": -98.025861
+		},
+		"stateCode": "NE"
 	},
 	"404": {
 		"type": "local",
-		"city": "atlanta",
-		"state": "georgia",
+		"city": "Atlanta",
+		"state": "Georgia",
 		"location": {
-			"latitude": 33.748995,
-			"longitude": -84.387982
-		}
+			"latitude": 33.739497,
+			"longitude": -84.392472
+		},
+		"stateCode": "GA"
 	},
 	"405": {
 		"type": "local",
-		"city": "midwest city",
-		"state": "oklahoma",
+		"city": "Midwest City",
+		"state": "Oklahoma",
 		"location": {
-			"latitude": 35.449506,
-			"longitude": -97.396701
-		}
+			"latitude": 35.390576,
+			"longitude": -97.472448
+		},
+		"stateCode": "OK"
 	},
 	"406": {
 		"type": "local",
-		"city": "billings",
-		"state": "montana",
+		"city": "Billings",
+		"state": "Montana",
 		"location": {
-			"latitude": 45.783285,
-			"longitude": -108.500690
-		}
+			"latitude": 47.033533,
+			"longitude": -109.64515
+		},
+		"stateCode": "MT"
 	},
 	"407": {
 		"type": "local",
-		"city": "altamonte springs",
-		"state": "florida",
+		"city": "Altamonte Springs",
+		"state": "Florida",
 		"location": {
-			"latitude": 28.661108,
-			"longitude": -81.365624
-		}
+			"latitude": 28.325064,
+			"longitude": -81.22196
+		},
+		"stateCode": "FL"
 	},
 	"408": {
 		"type": "local",
-		"city": "gilroy",
-		"state": "california",
+		"city": "Gilroy",
+		"state": "California",
 		"location": {
-			"latitude": 37.005781,
-			"longitude": -121.568275
-		}
+			"latitude": 37.227493,
+			"longitude": -121.70066
+		},
+		"stateCode": "CA"
 	},
 	"409": {
 		"type": "local",
-		"city": "beaumont",
-		"state": "texas",
+		"city": "Beaumont",
+		"state": "Texas",
 		"location": {
-			"latitude": 30.080174,
-			"longitude": -94.126556
-		}
+			"latitude": 30.323281,
+			"longitude": -94.291657
+		},
+		"stateCode": "TX"
 	},
 	"410": {
 		"type": "local",
-		"city": "annapolis",
-		"state": "maryland",
+		"city": "Annapolis",
+		"state": "Maryland",
 		"location": {
-			"latitude": 38.978445,
-			"longitude": -76.492182
-		}
+			"latitude": 38.896232,
+			"longitude": -76.110627
+		},
+		"stateCode": "MD"
 	},
 	"412": {
 		"type": "local",
-		"city": "pittsburgh",
-		"state": "pennsylvania",
+		"city": "Pittsburgh",
+		"state": "Pennsylvania",
 		"location": {
-			"latitude": 40.440624,
-			"longitude": -79.995886
-		}
+			"latitude": 40.432942,
+			"longitude": -79.975833
+		},
+		"stateCode": "PA"
 	},
 	"413": {
 		"type": "local",
-		"city": "chicopee",
-		"state": "massachusetts",
+		"city": "Chicopee",
+		"state": "Massachusetts",
 		"location": {
-			"latitude": 42.148704,
-			"longitude": -72.607867
-		}
+			"latitude": 42.352791,
+			"longitude": -72.831601
+		},
+		"stateCode": "MA"
 	},
 	"414": {
 		"type": "local",
-		"city": "milwaukee",
-		"state": "wisconsin",
+		"city": "Milwaukee",
+		"state": "Wisconsin",
 		"location": {
-			"latitude": 43.038902,
-			"longitude": -87.906473
-		}
+			"latitude": 42.996968,
+			"longitude": -87.976898
+		},
+		"stateCode": "WI"
 	},
 	"415": {
 		"type": "local",
-		"city": "san francisco",
-		"state": "california",
+		"city": "San Francisco",
+		"state": "California",
 		"location": {
-			"latitude": 37.774929,
-			"longitude": -122.419415
-		}
-	},
-	"416": {
-		"type": "local",
-		"city": "toronto",
-		"state": "ontario",
-		"location": {
-			"latitude": 43.653226,
-			"longitude": -79.383184
-		}
+			"latitude": 37.986719,
+			"longitude": -122.679559
+		},
+		"stateCode": "CA"
 	},
 	"417": {
 		"type": "local",
-		"city": "springfield",
-		"state": "missouri",
+		"city": "Springfield",
+		"state": "Missouri",
 		"location": {
-			"latitude": 37.208957,
-			"longitude": -93.292298
-		}
-	},
-	"418": {
-		"type": "local",
-		"city": "levis",
-		"state": "quebec",
-		"location": {
-			"latitude": 46.738226,
-			"longitude": -71.246459
-		}
+			"latitude": 37.216256,
+			"longitude": -93.181131
+		},
+		"stateCode": "MO"
 	},
 	"419": {
 		"type": "local",
-		"city": "toledo",
-		"state": "ohio",
+		"city": "Toledo",
+		"state": "Ohio",
 		"location": {
-			"latitude": 41.663938,
-			"longitude": -83.555212
-		}
+			"latitude": 40.998598,
+			"longitude": -83.55333
+		},
+		"stateCode": "OH"
 	},
 	"423": {
 		"type": "local",
-		"city": "chattanooga",
-		"state": "tennessee",
+		"city": "Chattanooga",
+		"state": "Tennessee",
 		"location": {
-			"latitude": 35.045629,
-			"longitude": -85.309680
-		}
+			"latitude": 35.883792,
+			"longitude": -83.924438
+		},
+		"stateCode": "TN"
 	},
 	"424": {
 		"type": "local",
-		"city": "beverly hills",
-		"state": "california",
+		"city": "Beverly Hills",
+		"state": "California",
 		"location": {
-			"latitude": 34.073620,
-			"longitude": -118.400356
-		}
+			"latitude": 33.515574,
+			"longitude": -118.777633
+		},
+		"stateCode": "CA"
 	},
 	"425": {
 		"type": "local",
-		"city": "bellevue",
-		"state": "washington",
+		"city": "Bellevue",
+		"state": "Washington",
 		"location": {
-			"latitude": 47.610377,
-			"longitude": -122.200678
-		}
+			"latitude": 47.570178,
+			"longitude": -121.886616
+		},
+		"stateCode": "WA"
 	},
 	"430": {
 		"type": "local",
-		"city": "longview",
-		"state": "texas",
+		"city": "Longview",
+		"state": "Texas",
 		"location": {
-			"latitude": 32.500703,
-			"longitude": -94.740489
-		}
+			"latitude": 32.705051,
+			"longitude": -95.389774
+		},
+		"stateCode": "TX"
 	},
 	"432": {
 		"type": "local",
-		"city": "midland",
-		"state": "texas",
+		"city": "Midland",
+		"state": "Texas",
 		"location": {
-			"latitude": 31.997345,
-			"longitude": -102.077914
-		}
+			"latitude": 30.879595,
+			"longitude": -102.924163
+		},
+		"stateCode": "TX"
 	},
 	"434": {
 		"type": "local",
-		"city": "lynchburg",
-		"state": "virginia",
+		"city": "Lynchburg",
+		"state": "Virginia",
 		"location": {
-			"latitude": 37.413753,
-			"longitude": -79.142246
-		}
+			"latitude": 37.184108,
+			"longitude": -78.597018
+		},
+		"stateCode": "VA"
 	},
 	"435": {
 		"type": "local",
-		"city": "cedar city",
-		"state": "utah",
+		"city": "Cedar City",
+		"state": "Utah",
 		"location": {
-			"latitude": 37.677476,
-			"longitude": -113.061893
-		}
-	},
-	"438": {
-		"type": "local",
-		"city": "montreal",
-		"state": "quebec",
-		"location": {
-			"latitude": 45.501688,
-			"longitude": -73.567256
-		}
+			"latitude": 39.306817,
+			"longitude": -111.718184
+		},
+		"stateCode": "UT"
 	},
 	"440": {
 		"type": "local",
-		"city": "cleveland",
-		"state": "ohio",
+		"city": "Cleveland",
+		"state": "Ohio",
 		"location": {
-			"latitude": 41.49932,
-			"longitude": -81.694360
-		}
-	},
-	"441": {
-		"type": "local",
-		"city": "pembroke",
-		"state": "bermuda",
-		"location": {
-			"latitude": 32.300767,
-			"longitude": -64.796263
-		}
+			"latitude": 41.483337,
+			"longitude": -81.422584
+		},
+		"stateCode": "OH"
 	},
 	"442": {
 		"type": "local",
-		"city": "apple valley",
-		"state": "california",
+		"city": "Apple Valley",
+		"state": "California",
 		"location": {
 			"latitude": 34.500831,
 			"longitude": -117.185875
-		}
+		},
+		"stateCode": "CA"
 	},
 	"443": {
 		"type": "local",
-		"city": "baltimore",
-		"state": "maryland",
+		"city": "Baltimore",
+		"state": "Maryland",
 		"location": {
-			"latitude": 39.290384,
-			"longitude": -76.612189
-		}
+			"latitude": 38.896232,
+			"longitude": -76.110627
+		},
+		"stateCode": "MD"
 	},
 	"445": {
 		"type": "local",
-		"city": "philadelphia",
-		"state": "pennsylvania",
+		"city": "Philadelphia",
+		"state": "Pennsylvania",
 		"location": {
-			"latitude": 39.952583,
-			"longitude": -75.165221
-		}
+			"latitude": 40.241084,
+			"longitude": -75.15556
+		},
+		"stateCode": "PA"
 	},
 	"447": {
 		"type": "local",
-		"city": "champaign",
-		"state": "illinois",
+		"city": "Champaign",
+		"state": "Illinois",
 		"location": {
-			"latitude": 40.116420,
+			"latitude": 40.11642,
 			"longitude": -88.243382
-		}
-	},
-	"450": {
-		"type": "local",
-		"city": "brossard",
-		"state": "quebec",
-		"location": {
-			"latitude": 45.466667,
-			"longitude": -73.45
-		}
+		},
+		"stateCode": "IL"
 	},
 	"458": {
 		"type": "local",
-		"city": "eugene",
-		"state": "oregon",
+		"city": "Eugene",
+		"state": "Oregon",
 		"location": {
 			"latitude": 44.052069,
 			"longitude": -123.086753
-		}
+		},
+		"stateCode": "OR"
+	},
+	"463": {
+		"type": "local",
+		"stateCode": "IN",
+		"location": {
+			"latitude": 39.9788383,
+			"longitude": -86.118731
+		},
+		"state": "Indiana",
+		"city": "Carmel"
 	},
 	"464": {
 		"type": "local",
-		"city": "cicero",
-		"state": "illinois",
+		"city": "Cicero",
+		"state": "Illinois",
 		"location": {
 			"latitude": 41.845587,
 			"longitude": -87.753944
-		}
+		},
+		"stateCode": "IL"
 	},
 	"469": {
 		"type": "local",
-		"city": "carrollton",
-		"state": "texas",
+		"city": "Carrollton",
+		"state": "Texas",
 		"location": {
-			"latitude": 32.975641,
-			"longitude": -96.889963
-		}
+			"latitude": 32.771888,
+			"longitude": -96.647071
+		},
+		"stateCode": "TX"
 	},
 	"470": {
 		"type": "local",
-		"city": "atlanta",
-		"state": "georgia",
+		"city": "Atlanta",
+		"state": "Georgia",
 		"location": {
-			"latitude": 33.748995,
-			"longitude": -84.387982
-		}
-	},
-	"473": {
-		"type": "local",
-		"city": "st. george's",
-		"state": "grenada",
-		"location": {
-			"latitude": 12.056097,
-			"longitude": -61.748799
-		}
+			"latitude": 33.770793,
+			"longitude": -84.43614
+		},
+		"stateCode": "GA"
 	},
 	"475": {
 		"type": "local",
-		"city": "bridgeport",
-		"state": "connecticut",
+		"city": "Bridgeport",
+		"state": "Connecticut",
 		"location": {
-			"latitude": 41.186547,
-			"longitude": -73.195176
-		}
+			"latitude": 41.341175,
+			"longitude": -73.167001
+		},
+		"stateCode": "CT"
 	},
 	"478": {
 		"type": "local",
-		"city": "macon",
-		"state": "georgia",
+		"city": "Macon",
+		"state": "Georgia",
 		"location": {
-			"latitude": 32.840694,
-			"longitude": -83.632402
-		}
+			"latitude": 32.689186,
+			"longitude": -83.214208
+		},
+		"stateCode": "GA"
 	},
 	"479": {
 		"type": "local",
-		"city": "fayetteville",
-		"state": "arkansas",
+		"city": "Fayetteville",
+		"state": "Arkansas",
 		"location": {
-			"latitude": 36.062579,
-			"longitude": -94.157426
-		}
+			"latitude": 35.523174,
+			"longitude": -93.859516
+		},
+		"stateCode": "AR"
 	},
 	"480": {
 		"type": "local",
-		"city": "chandler",
-		"state": "arizona",
+		"city": "Chandler",
+		"state": "Arizona",
 		"location": {
-			"latitude": 33.306160,
-			"longitude": -111.841250
-		}
+			"latitude": 33.486401,
+			"longitude": -111.758833
+		},
+		"stateCode": "AZ"
 	},
 	"484": {
 		"type": "local",
-		"city": "allentown",
-		"state": "pennsylvania",
+		"city": "Allentown",
+		"state": "Pennsylvania",
 		"location": {
-			"latitude": 40.608430,
-			"longitude": -75.490183
-		}
+			"latitude": 40.341781,
+			"longitude": -75.643876
+		},
+		"stateCode": "PA"
 	},
 	"501": {
 		"type": "local",
-		"city": "little rock",
-		"state": "arkansas",
+		"city": "Little Rock",
+		"state": "Arkansas",
 		"location": {
-			"latitude": 34.746480,
-			"longitude": -92.289594
-		}
+			"latitude": 35.26111,
+			"longitude": -93.193786
+		},
+		"stateCode": "AR"
 	},
 	"502": {
 		"type": "local",
-		"city": "louisville",
-		"state": "kentucky",
+		"city": "Louisville",
+		"state": "Kentucky",
 		"location": {
-			"latitude": 38.252664,
-			"longitude": -85.758455
-		}
+			"latitude": 38.215905,
+			"longitude": -85.235416
+		},
+		"stateCode": "KY"
 	},
 	"503": {
 		"type": "local",
-		"city": "beaver",
-		"state": "oregon",
+		"city": "Beaver",
+		"state": "Oregon",
 		"location": {
-			"latitude": 45.276772,
-			"longitude": -123.826505
-		}
+			"latitude": 45.318736,
+			"longitude": -122.916239
+		},
+		"stateCode": "OR"
 	},
 	"504": {
 		"type": "local",
-		"city": "kenner",
-		"state": "louisiana",
+		"city": "Kenner",
+		"state": "Louisiana",
 		"location": {
-			"latitude": 29.994092,
-			"longitude": -90.241743
-		}
+			"latitude": 29.865363,
+			"longitude": -89.655576
+		},
+		"stateCode": "LA"
 	},
 	"505": {
 		"type": "local",
-		"city": "albuquerque",
-		"state": "new mexico",
+		"city": "Albuquerque",
+		"state": "New Mexico",
 		"location": {
-			"latitude": 35.085333,
-			"longitude": -106.605553
-		}
-	},
-	"506": {
-		"type": "local",
-		"city": "fredricton",
-		"state": "new brunswick",
-		"location": {
-			"latitude": 45.963589,
-			"longitude": -66.643115
-		}
+			"latitude": 35.568629,
+			"longitude": -107.451999
+		},
+		"stateCode": "NM"
 	},
 	"507": {
 		"type": "local",
-		"city": "austin",
-		"state": "minnesota",
+		"city": "Austin",
+		"state": "Minnesota",
 		"location": {
-			"latitude": 43.666629,
-			"longitude": -92.974636
-		}
+			"latitude": 44.040521,
+			"longitude": -94.170011
+		},
+		"stateCode": "MN"
 	},
 	"508": {
 		"type": "local",
-		"city": "cambridge",
-		"state": "massachusetts",
+		"city": "Cambridge",
+		"state": "Massachusetts",
 		"location": {
-			"latitude": 42.373615,
-			"longitude": -71.109733
-		}
+			"latitude": 41.857075,
+			"longitude": -70.96184
+		},
+		"stateCode": "MA"
 	},
 	"509": {
 		"type": "local",
-		"city": "kennewick",
-		"state": "washington",
+		"city": "Kennewick",
+		"state": "Washington",
 		"location": {
-			"latitude": 46.211245,
-			"longitude": -119.137233
-		}
+			"latitude": 47.358864,
+			"longitude": -119.06016
+		},
+		"stateCode": "WA"
 	},
 	"510": {
 		"type": "local",
-		"city": "alameda",
-		"state": "california",
+		"city": "Alameda",
+		"state": "California",
 		"location": {
-			"latitude": 37.765206,
-			"longitude": -122.241635
-		}
+			"latitude": 37.737405,
+			"longitude": -122.08967
+		},
+		"stateCode": "CA"
 	},
 	"512": {
 		"type": "local",
-		"city": "austin",
-		"state": "texas",
+		"city": "Austin",
+		"state": "Texas",
 		"location": {
-			"latitude": 30.267153,
-			"longitude": -97.743060
-		}
+			"latitude": 30.471944,
+			"longitude": -97.726481
+		},
+		"stateCode": "TX"
 	},
 	"513": {
 		"type": "local",
-		"city": "cincinnati",
-		"state": "ohio",
+		"city": "Cincinnati",
+		"state": "Ohio",
 		"location": {
-			"latitude": 39.103118,
-			"longitude": -84.512019
-		}
-	},
-	"514": {
-		"type": "local",
-		"city": "montreal",
-		"state": "quebec",
-		"location": {
-			"latitude": 45.501688,
-			"longitude": -73.567256
-		}
+			"latitude": 39.268072,
+			"longitude": -84.3669
+		},
+		"stateCode": "OH"
 	},
 	"515": {
 		"type": "local",
-		"city": "ames",
-		"state": "iowa",
+		"city": "Ames",
+		"state": "Iowa",
 		"location": {
-			"latitude": 42.034722,
-			"longitude": -93.619999
-		}
+			"latitude": 42.236267,
+			"longitude": -93.927577
+		},
+		"stateCode": "IA"
 	},
 	"516": {
 		"type": "local",
-		"city": "freeport",
-		"state": "new york",
+		"city": "Freeport",
+		"state": "New York",
 		"location": {
-			"latitude": 40.657602,
-			"longitude": -73.583183
-		}
+			"latitude": 40.750917,
+			"longitude": -73.398233
+		},
+		"stateCode": "NY"
 	},
 	"517": {
 		"type": "local",
-		"city": "charlotte",
-		"state": "michigan",
+		"city": "Charlotte",
+		"state": "Michigan",
 		"location": {
-			"latitude": 42.563647,
-			"longitude": -84.835821
-		}
+			"latitude": 42.275676,
+			"longitude": -84.503319
+		},
+		"stateCode": "MI"
 	},
 	"518": {
 		"type": "local",
-		"city": "albany",
-		"state": "new york",
+		"city": "Albany",
+		"state": "New York",
 		"location": {
-			"latitude": 42.652579,
-			"longitude": -73.756231
-		}
-	},
-	"519": {
-		"type": "local",
-		"city": "kitchener",
-		"state": "ontario",
-		"location": {
-			"latitude": 43.412923,
-			"longitude": -80.477147
-		}
+			"latitude": 43.562173,
+			"longitude": -73.985656
+		},
+		"stateCode": "NY"
 	},
 	"520": {
 		"type": "local",
-		"city": "casas adobes",
-		"state": "arizona",
+		"city": "Casas Adobes",
+		"state": "Arizona",
 		"location": {
-			"latitude": 32.323407,
-			"longitude": -110.995096
-		}
+			"latitude": 34.325295,
+			"longitude": -111.667117
+		},
+		"stateCode": "AZ"
 	},
 	"530": {
 		"type": "local",
-		"city": "chico",
-		"state": "california",
+		"city": "Chico",
+		"state": "California",
 		"location": {
-			"latitude": 39.728494,
-			"longitude": -121.837477
-		}
+			"latitude": 40.434209,
+			"longitude": -121.560896
+		},
+		"stateCode": "CA"
 	},
 	"531": {
 		"type": "local",
-		"city": "omaha",
-		"state": "nebraska",
+		"city": "Omaha",
+		"state": "Nebraska",
 		"location": {
 			"latitude": 41.252363,
 			"longitude": -95.997988
-		}
+		},
+		"stateCode": "NE"
 	},
 	"534": {
 		"type": "local",
-		"city": "eau claire",
-		"state": "wisconsin",
+		"city": "Eau Claire",
+		"state": "Wisconsin",
 		"location": {
 			"latitude": 44.811349,
 			"longitude": -91.498494
-		}
+		},
+		"stateCode": "WI"
+	},
+	"539": {
+		"type": "local",
+		"stateCode": "OK",
+		"location": {
+			"latitude": 36.7494864,
+			"longitude": -95.9782966
+		},
+		"state": "Oklahoma",
+		"city": "Bartlesville"
 	},
 	"540": {
 		"type": "local",
-		"city": "blacksburg",
-		"state": "virginia",
+		"city": "Blacksburg",
+		"state": "Virginia",
 		"location": {
-			"latitude": 37.229573,
-			"longitude": -80.413939
-		}
+			"latitude": 38.057324,
+			"longitude": -79.036418
+		},
+		"stateCode": "VA"
 	},
 	"541": {
 		"type": "local",
-		"city": "bend",
-		"state": "oregon",
+		"city": "Bend",
+		"state": "Oregon",
 		"location": {
-			"latitude": 44.058172,
-			"longitude": -121.315309
-		}
+			"latitude": 43.793004,
+			"longitude": -120.305909
+		},
+		"stateCode": "OR"
 	},
 	"551": {
 		"type": "local",
-		"city": "bayonne",
-		"state": "new jersey",
+		"city": "Bayonne",
+		"state": "New Jersey",
 		"location": {
-			"latitude": 40.668714,
-			"longitude": -74.114309
-		}
+			"latitude": 40.925692,
+			"longitude": -74.073135
+		},
+		"stateCode": "NJ"
 	},
 	"557": {
 		"type": "local",
-		"city": "st. louis",
-		"state": "missouri",
+		"city": "St. Louis",
+		"state": "Missouri",
 		"location": {
 			"latitude": 38.627002,
 			"longitude": -90.199404
-		}
+		},
+		"stateCode": "MO"
 	},
 	"559": {
 		"type": "local",
-		"city": "clovis",
-		"state": "california",
+		"city": "Clovis",
+		"state": "California",
 		"location": {
-			"latitude": 36.825227,
-			"longitude": -119.702919
-		}
+			"latitude": 36.600669,
+			"longitude": -119.378031
+		},
+		"stateCode": "CA"
 	},
 	"561": {
 		"type": "local",
-		"city": "boca raton",
-		"state": "florida",
+		"city": "Boca Raton",
+		"state": "Florida",
 		"location": {
-			"latitude": 26.368306,
-			"longitude": -80.128932
-		}
+			"latitude": 26.640771,
+			"longitude": -80.448011
+		},
+		"stateCode": "FL"
 	},
 	"562": {
 		"type": "local",
-		"city": "bellflower",
-		"state": "california",
+		"city": "Bellflower",
+		"state": "California",
 		"location": {
-			"latitude": 33.881681,
-			"longitude": -118.117011
-		}
+			"latitude": 33.88048,
+			"longitude": -118.093193
+		},
+		"stateCode": "CA"
 	},
 	"563": {
 		"type": "local",
-		"city": "davenport",
-		"state": "iowa",
+		"city": "Davenport",
+		"state": "Iowa",
 		"location": {
-			"latitude": 41.523643,
-			"longitude": -90.577636
-		}
+			"latitude": 42.528086,
+			"longitude": -91.230288
+		},
+		"stateCode": "IA"
 	},
 	"564": {
 		"type": "local",
-		"city": "seattle",
-		"state": "washington",
+		"city": "Seattle",
+		"state": "Washington",
 		"location": {
 			"latitude": 47.606209,
-			"longitude": -122.332070
-		}
+			"longitude": -122.33207
+		},
+		"stateCode": "WA"
 	},
 	"567": {
 		"type": "local",
-		"city": "toledo",
-		"state": "ohio",
+		"city": "Toledo",
+		"state": "Ohio",
 		"location": {
-			"latitude": 41.663938,
-			"longitude": -83.555212
-		}
+			"latitude": 40.998598,
+			"longitude": -83.55333
+		},
+		"stateCode": "OH"
 	},
 	"570": {
 		"type": "local",
-		"city": "scranton",
-		"state": "pennsylvania",
+		"city": "Scranton",
+		"state": "Pennsylvania",
 		"location": {
-			"latitude": 41.408969,
-			"longitude": -75.662412
-		}
+			"latitude": 41.340957,
+			"longitude": -76.360915
+		},
+		"stateCode": "PA"
 	},
 	"571": {
 		"type": "local",
-		"city": "alexandria",
-		"state": "virginia",
+		"city": "Alexandria",
+		"state": "Virginia",
 		"location": {
-			"latitude": 38.804835,
-			"longitude": -77.046921
-		}
+			"latitude": 38.837375,
+			"longitude": -77.397635
+		},
+		"stateCode": "VA"
 	},
 	"573": {
 		"type": "local",
-		"city": "columbia",
-		"state": "missouri",
+		"city": "Columbia",
+		"state": "Missouri",
 		"location": {
-			"latitude": 38.951705,
-			"longitude": -92.334072
-		}
+			"latitude": 37.919598,
+			"longitude": -91.136288
+		},
+		"stateCode": "MO"
 	},
 	"574": {
 		"type": "local",
-		"city": "elkhart",
-		"state": "indiana",
+		"city": "Elkhart",
+		"state": "Indiana",
 		"location": {
-			"latitude": 41.681993,
-			"longitude": -85.976667
-		}
+			"latitude": 41.248048,
+			"longitude": -86.279023
+		},
+		"stateCode": "IN"
 	},
 	"575": {
 		"type": "local",
-		"city": "alamogordo",
-		"state": "new mexico",
+		"city": "Alamogordo",
+		"state": "New Mexico",
 		"location": {
-			"latitude": 32.899532,
-			"longitude": -105.960265
-		}
-	},
-	"579": {
-		"type": "local",
-		"city": "terrebone",
-		"state": "quebec",
-		"location": {
-			"latitude": 45.692981,
-			"longitude": -73.633110
-		}
+			"latitude": 34.116084,
+			"longitude": -105.750853
+		},
+		"stateCode": "NM"
 	},
 	"580": {
 		"type": "local",
-		"city": "lawton",
-		"state": "oklahoma",
+		"city": "Lawton",
+		"state": "Oklahoma",
 		"location": {
-			"latitude": 34.603566,
-			"longitude": -98.395929
-		}
-	},
-	"581": {
-		"type": "local",
-		"city": "levis",
-		"state": "quebec",
-		"location": {
-			"latitude": 46.738226,
-			"longitude": -71.246459
-		}
+			"latitude": 35.509837,
+			"longitude": -98.495317
+		},
+		"stateCode": "OK"
 	},
 	"585": {
 		"type": "local",
-		"city": "arcade",
-		"state": "new york",
+		"city": "Arcade",
+		"state": "New York",
 		"location": {
-			"latitude": 42.533951,
-			"longitude": -78.423073
-		}
+			"latitude": 42.757073,
+			"longitude": -77.977995
+		},
+		"stateCode": "NY"
 	},
 	"586": {
 		"type": "local",
-		"city": "sterling heights",
-		"state": "michigan",
+		"city": "Sterling Heights",
+		"state": "Michigan",
 		"location": {
-			"latitude": 42.580312,
-			"longitude": -83.030203
-		}
-	},
-	"587": {
-		"type": "local",
-		"city": "calgary",
-		"state": "alberta",
-		"location": {
-			"latitude": 51.048615,
-			"longitude": -114.070845
-		}
+			"latitude": 42.707104,
+			"longitude": -82.901231
+		},
+		"stateCode": "MI"
 	},
 	"601": {
 		"type": "local",
-		"city": "hattiesburg",
-		"state": "mississippi",
+		"city": "Hattiesburg",
+		"state": "Mississippi",
 		"location": {
-			"latitude": 31.327118,
-			"longitude": -89.290339
-		}
+			"latitude": 31.765804,
+			"longitude": -89.761592
+		},
+		"stateCode": "MS"
 	},
 	"602": {
 		"type": "local",
-		"city": "phoenix",
-		"state": "arizona",
+		"city": "Phoenix",
+		"state": "Arizona",
 		"location": {
-			"latitude": 33.448377,
-			"longitude": -112.074037
-		}
+			"latitude": 33.487025,
+			"longitude": -112.076198
+		},
+		"stateCode": "AZ"
 	},
 	"603": {
 		"type": "local",
-		"city": "dover",
-		"state": "new hampshire",
+		"city": "Dover",
+		"state": "New Hampshire",
 		"location": {
-			"latitude": 43.197862,
-			"longitude": -70.873669
-		}
+			"latitude": 43.745418,
+			"longitude": -71.547951
+		},
+		"stateCode": "NH"
 	},
 	"605": {
 		"type": "local",
-		"city": "rapid city",
-		"state": "south dakota",
+		"city": "Rapid City",
+		"state": "South Dakota",
 		"location": {
-			"latitude": 44.080543,
-			"longitude": -103.231014
-		}
+			"latitude": 44.436144,
+			"longitude": -100.230488
+		},
+		"stateCode": "SD"
 	},
 	"606": {
 		"type": "local",
-		"city": "ashland",
-		"state": "kentucky",
+		"city": "Ashland",
+		"state": "Kentucky",
 		"location": {
-			"latitude": 38.478414,
-			"longitude": -82.637938
-		}
+			"latitude": 37.540083,
+			"longitude": -83.597956
+		},
+		"stateCode": "KY"
 	},
 	"607": {
 		"type": "local",
-		"city": "elmira",
-		"state": "new york",
+		"city": "Elmira",
+		"state": "New York",
 		"location": {
-			"latitude": 42.089796,
-			"longitude": -76.807733
-		}
+			"latitude": 42.335268,
+			"longitude": -76.075461
+		},
+		"stateCode": "NY"
 	},
 	"608": {
 		"type": "local",
-		"city": "janesville",
-		"state": "wisconsin",
+		"city": "Janesville",
+		"state": "Wisconsin",
 		"location": {
-			"latitude": 42.682788,
-			"longitude": -89.018722
-		}
+			"latitude": 43.376417,
+			"longitude": -90.232246
+		},
+		"stateCode": "WI"
 	},
 	"609": {
 		"type": "local",
-		"city": "allentown",
-		"state": "new jersey",
+		"city": "Allentown",
+		"state": "New Jersey",
 		"location": {
-			"latitude": 40.177888,
-			"longitude": -74.583488
-		}
+			"latitude": 39.784621,
+			"longitude": -74.657517
+		},
+		"stateCode": "NJ"
 	},
 	"610": {
 		"type": "local",
-		"city": "allentown",
-		"state": "pennsylvania",
+		"city": "Allentown",
+		"state": "Pennsylvania",
 		"location": {
-			"latitude": 40.608430,
-			"longitude": -75.490183
-		}
+			"latitude": 40.341781,
+			"longitude": -75.643876
+		},
+		"stateCode": "PA"
 	},
 	"612": {
 		"type": "local",
-		"city": "minneapolis",
-		"state": "minnesota",
+		"city": "Minneapolis",
+		"state": "Minnesota",
 		"location": {
-			"latitude": 44.977753,
-			"longitude": -93.265010
-		}
-	},
-	"613": {
-		"type": "local",
-		"city": "kingston",
-		"state": "ontario",
-		"location": {
-			"latitude": 44.231171,
-			"longitude": -76.485954
-		}
+			"latitude": 44.929252,
+			"longitude": -93.25642
+		},
+		"stateCode": "MN"
 	},
 	"614": {
 		"type": "local",
-		"city": "columbus",
-		"state": "ohio",
+		"city": "Columbus",
+		"state": "Ohio",
 		"location": {
-			"latitude": 39.961175,
-			"longitude": -82.998794
-		}
+			"latitude": 39.966582,
+			"longitude": -83.036841
+		},
+		"stateCode": "OH"
 	},
 	"615": {
 		"type": "local",
-		"city": "murfreesboro",
-		"state": "tennessee",
+		"city": "Murfreesboro",
+		"state": "Tennessee",
 		"location": {
-			"latitude": 35.845621,
-			"longitude": -86.39027
-		}
+			"latitude": 36.175352,
+			"longitude": -86.556462
+		},
+		"stateCode": "TN"
 	},
 	"616": {
 		"type": "local",
-		"city": "grand rapids",
-		"state": "michigan",
+		"city": "Grand Rapids",
+		"state": "Michigan",
 		"location": {
-			"latitude": 42.963359,
-			"longitude": -85.668086
-		}
+			"latitude": 42.981195,
+			"longitude": -85.608166
+		},
+		"stateCode": "MI"
 	},
 	"617": {
 		"type": "local",
-		"city": "boston",
-		"state": "massachusetts",
+		"city": "Boston",
+		"state": "Massachusetts",
 		"location": {
-			"latitude": 42.360082,
-			"longitude": -71.058880
-		}
+			"latitude": 42.319045,
+			"longitude": -71.093525
+		},
+		"stateCode": "MA"
 	},
 	"618": {
 		"type": "local",
-		"city": "alton",
-		"state": "illinois",
+		"city": "Alton",
+		"state": "Illinois",
 		"location": {
-			"latitude": 38.890603,
-			"longitude": -90.184276
-		}
+			"latitude": 38.329447,
+			"longitude": -89.014305
+		},
+		"stateCode": "IL"
 	},
 	"619": {
 		"type": "local",
-		"city": "chula vista",
-		"state": "california",
+		"city": "Chula Vista",
+		"state": "California",
 		"location": {
-			"latitude": 32.640054,
-			"longitude": -117.084195
-		}
+			"latitude": 32.745454,
+			"longitude": -116.727701
+		},
+		"stateCode": "CA"
 	},
 	"620": {
 		"type": "local",
-		"city": "dodge city",
-		"state": "kansas",
+		"city": "Dodge City",
+		"state": "Kansas",
 		"location": {
-			"latitude": 37.752798,
-			"longitude": -100.017078
-		}
+			"latitude": 37.767537,
+			"longitude": -98.48193
+		},
+		"stateCode": "KS"
 	},
 	"623": {
 		"type": "local",
-		"city": "phoenix",
-		"state": "arizona",
+		"city": "Phoenix",
+		"state": "Arizona",
 		"location": {
-			"latitude": 33.448377,
-			"longitude": -112.074037
-		}
+			"latitude": 33.545877,
+			"longitude": -112.452827
+		},
+		"stateCode": "AZ"
 	},
 	"626": {
 		"type": "local",
-		"city": "alhambra",
-		"state": "california",
+		"city": "Alhambra",
+		"state": "California",
 		"location": {
-			"latitude": 34.095287,
-			"longitude": -118.127014
-		}
+			"latitude": 34.108144,
+			"longitude": -117.98469
+		},
+		"stateCode": "CA"
 	},
 	"627": {
 		"type": "local",
 		"city": "santa rosa",
-		"state": "california",
+		"state": "California",
 		"location": {
 			"latitude": 38.440429,
 			"longitude": -122.714054
-		}
+		},
+		"stateCode": "CA"
 	},
 	"628": {
 		"type": "local",
-		"city": "san francisco",
-		"state": "california",
+		"city": "San Francisco",
+		"state": "California",
 		"location": {
 			"latitude": 37.774929,
 			"longitude": -122.419415
-		}
+		},
+		"stateCode": "CA"
+	},
+	"629": {
+		"type": "local",
+		"stateCode": "TN",
+		"location": {
+			"latitude": 36.0325687,
+			"longitude": -86.7825235
+		},
+		"state": "Tennessee",
+		"city": "Brentwood"
 	},
 	"630": {
 		"type": "local",
-		"city": "naperville",
-		"state": "illinois",
+		"city": "Naperville",
+		"state": "Illinois",
 		"location": {
-			"latitude": 41.750839,
-			"longitude": -88.153535
-		}
+			"latitude": 41.810713,
+			"longitude": -88.254341
+		},
+		"stateCode": "IL"
 	},
 	"631": {
 		"type": "local",
-		"city": "babylon",
-		"state": "new york",
+		"city": "Babylon",
+		"state": "New York",
 		"location": {
-			"latitude": 40.695655,
-			"longitude": -73.325675
-		}
+			"latitude": 40.946958,
+			"longitude": -72.725587
+		},
+		"stateCode": "NY"
 	},
 	"636": {
 		"type": "local",
-		"city": "st. charles",
-		"state": "missouri",
+		"city": "St. Charles",
+		"state": "Missouri",
 		"location": {
-			"latitude": 38.788106,
-			"longitude": -90.497435
-		}
+			"latitude": 38.578392,
+			"longitude": -90.797942
+		},
+		"stateCode": "MO"
+	},
+	"640": {
+		"type": "local",
+		"city": "Allentown",
+		"state": "New Jersey",
+		"location": {
+			"latitude": 39.784621,
+			"longitude": -74.657517
+		},
+		"stateCode": "NJ"
 	},
 	"641": {
 		"type": "local",
-		"city": "mason city",
-		"state": "iowa",
+		"city": "Mason City",
+		"state": "Iowa",
 		"location": {
-			"latitude": 43.153572,
-			"longitude": -93.201036
-		}
+			"latitude": 41.800221,
+			"longitude": -93.234162
+		},
+		"stateCode": "IA"
 	},
 	"646": {
 		"type": "local",
-		"city": "new york city",
-		"state": "new york",
+		"city": "New York City",
+		"state": "New York",
 		"location": {
-			"latitude": 40.712783,
-			"longitude": -74.005941
-		}
-	},
-	"647": {
-		"type": "local",
-		"city": "toronto",
-		"state": "ontario",
-		"location": {
-			"latitude": 43.653226,
-			"longitude": -79.383184
-		}
-	},
-	"649": {
-		"type": "local",
-		"city": "cockburn town",
-		"state": "turks and caicos",
-		"location": {
-			"latitude": 21.459,
-			"longitude": -71.139
-		}
+			"latitude": 40.781428,
+			"longitude": -73.965434
+		},
+		"stateCode": "NY"
 	},
 	"650": {
 		"type": "local",
-		"city": "daly city",
-		"state": "california",
+		"city": "Daly City",
+		"state": "California",
 		"location": {
-			"latitude": 37.687924,
-			"longitude": -122.470207
-		}
+			"latitude": 37.415331,
+			"longitude": -122.302585
+		},
+		"stateCode": "CA"
 	},
 	"651": {
 		"type": "local",
-		"city": "st. paul",
-		"state": "minnesota",
+		"city": "St. Paul",
+		"state": "Minnesota",
 		"location": {
-			"latitude": 44.953702,
-			"longitude": -93.089957
-		}
+			"latitude": 44.915292,
+			"longitude": -92.841185
+		},
+		"stateCode": "MN"
 	},
 	"657": {
 		"type": "local",
-		"city": "anaheim",
-		"state": "california",
+		"city": "Anaheim",
+		"state": "California",
 		"location": {
-			"latitude": 33.835293,
-			"longitude": -117.914503
-		}
+			"latitude": 33.806316,
+			"longitude": -117.829679
+		},
+		"stateCode": "CA"
 	},
 	"659": {
 		"type": "local",
-		"city": "birmingham",
-		"state": "alabama",
+		"city": "Birmingham",
+		"state": "Alabama",
 		"location": {
-			"latitude": 33.520660,
+			"latitude": 33.52066,
 			"longitude": -86.802489
-		}
+		},
+		"stateCode": "AL"
 	},
 	"660": {
 		"type": "local",
-		"city": "marshall",
-		"state": "missouri",
+		"city": "Marshall",
+		"state": "Missouri",
 		"location": {
-			"latitude": 39.123077,
-			"longitude": -93.196870
-		}
+			"latitude": 39.647249,
+			"longitude": -93.383421
+		},
+		"stateCode": "MO"
 	},
 	"661": {
 		"type": "local",
-		"city": "earlimart",
-		"state": "california",
+		"city": "Earlimart",
+		"state": "California",
 		"location": {
-			"latitude": 35.884120,
-			"longitude": -119.272332
-		}
+			"latitude": 35.075115,
+			"longitude": -118.902121
+		},
+		"stateCode": "CA"
 	},
 	"662": {
 		"type": "local",
-		"city": "starkville",
-		"state": "mississippi",
+		"city": "Starkville",
+		"state": "Mississippi",
 		"location": {
-			"latitude": 33.450399,
-			"longitude": -88.818387
-		}
-	},
-	"664": {
-		"type": "local",
-		"city": "brades estate",
-		"state": "montserrat",
-		"location": {
-			"latitude": 16.742498,
-			"longitude": -62.187366
-		}
+			"latitude": 33.836267,
+			"longitude": -89.621696
+		},
+		"stateCode": "MS"
 	},
 	"667": {
 		"type": "local",
-		"city": "baltimore",
-		"state": "maryland",
+		"city": "Baltimore",
+		"state": "Maryland",
 		"location": {
 			"latitude": 39.290384,
 			"longitude": -76.612189
-		}
+		},
+		"stateCode": "MD"
 	},
 	"669": {
 		"type": "local",
-		"city": "san jose",
-		"state": "california",
+		"city": "San Jose",
+		"state": "California",
 		"location": {
 			"latitude": 37.338208,
 			"longitude": -121.886328
-		}
+		},
+		"stateCode": "CA"
 	},
 	"670": {
 		"type": "local",
@@ -1968,511 +2016,528 @@
 		"location": {
 			"latitude": 15.177801,
 			"longitude": 145.750967
-		}
+		},
+		"stateCode": "MP"
 	},
 	"671": {
 		"type": "local",
-		"city": "hagatna",
-		"state": "guam",
+		"city": "Hagatna",
+		"state": "Guam",
 		"location": {
-			"latitude": 13.470890,
-			"longitude": 144.7512782
-		}
+			"latitude": 13.44733,
+			"longitude": 144.767979
+		},
+		"stateCode": "GU"
 	},
 	"678": {
 		"type": "local",
-		"city": "atlanta",
-		"state": "georgia",
+		"city": "Atlanta",
+		"state": "Georgia",
 		"location": {
-			"latitude": 33.748995,
-			"longitude": -84.387982
-		}
+			"latitude": 33.770793,
+			"longitude": -84.43614
+		},
+		"stateCode": "GA"
 	},
 	"679": {
 		"type": "local",
-		"city": "detroit",
-		"state": "michigan",
+		"city": "Detroit",
+		"state": "Michigan",
 		"location": {
 			"latitude": 42.331427,
 			"longitude": -83.045753
-		}
+		},
+		"stateCode": "MI"
+	},
+	"680": {
+		"type": "local",
+		"stateCode": "NY",
+		"location": {
+			"latitude": 42.9320202,
+			"longitude": -76.5672029
+		},
+		"state": "New York",
+		"city": "Auburn"
 	},
 	"681": {
 		"type": "local",
-		"city": "charleston",
-		"state": "west virginia",
+		"city": "Charleston",
+		"state": "West Virginia",
 		"location": {
 			"latitude": 38.349819,
 			"longitude": -81.632623
-		}
+		},
+		"stateCode": "WV"
 	},
 	"682": {
 		"type": "local",
-		"city": "arlington",
-		"state": "texas",
+		"city": "Arlington",
+		"state": "Texas",
 		"location": {
-			"latitude": 32.735687,
-			"longitude": -97.108065
-		}
+			"latitude": 32.655169,
+			"longitude": -97.488648
+		},
+		"stateCode": "TX"
 	},
 	"684": {
 		"type": "local",
-		"city": "pago pago",
-		"state": "american samoa",
+		"city": "Pago Pago",
+		"state": "American Samoa",
 		"location": {
-			"latitude": -14.279444,
-			"longitude": -170.700556
-		}
+			"latitude": -14.266062,
+			"longitude": -170.130305
+		},
+		"stateCode": "AS"
 	},
 	"689": {
 		"type": "local",
-		"city": "orlando",
-		"state": "florida",
+		"city": "Orlando",
+		"state": "Florida",
 		"location": {
 			"latitude": 28.538335,
 			"longitude": -81.379236
-		}
+		},
+		"stateCode": "FL"
 	},
 	"701": {
 		"type": "local",
-		"city": "bismarck",
-		"state": "north carolina",
+		"city": "Bismarck",
+		"state": "North Dakota",
 		"location": {
-			"latitude": 35.575192,
-			"longitude": -77.396234
-		}
+			"latitude": 47.446324,
+			"longitude": -100.469297
+		},
+		"stateCode": "ND"
 	},
 	"702": {
 		"type": "local",
-		"city": "henderson",
-		"state": "nevada",
+		"city": "Henderson",
+		"state": "Nevada",
 		"location": {
-			"latitude": 36.039524,
-			"longitude": -114.981721
-		}
+			"latitude": 36.159086,
+			"longitude": -114.938366
+		},
+		"stateCode": "NV"
 	},
 	"703": {
 		"type": "local",
-		"city": "alexandria",
-		"state": "virginia",
+		"city": "Alexandria",
+		"state": "Virginia",
 		"location": {
-			"latitude": 38.804835,
-			"longitude": -77.046921
-		}
+			"latitude": 38.837375,
+			"longitude": -77.397635
+		},
+		"stateCode": "VA"
 	},
 	"704": {
 		"type": "local",
-		"city": "charlotte",
-		"state": "north carolina",
+		"city": "Charlotte",
+		"state": "North Carolina",
 		"location": {
-			"latitude": 35.227086,
-			"longitude": -80.843126
-		}
-	},
-	"705": {
-		"type": "local",
-		"city": "sault ste. marie",
-		"state": "ontario",
-		"location": {
-			"latitude": 46.495299,
-			"longitude": -84.345316
-		}
+			"latitude": 35.343951,
+			"longitude": -80.734736
+		},
+		"stateCode": "NC"
 	},
 	"706": {
 		"type": "local",
-		"city": "athens",
-		"state": "georgia",
+		"city": "Athens",
+		"state": "Georgia",
 		"location": {
-			"latitude": 33.951934,
-			"longitude": -83.357567
-		}
+			"latitude": 33.700602,
+			"longitude": -83.870619
+		},
+		"stateCode": "GA"
 	},
 	"707": {
 		"type": "local",
-		"city": "benicia",
-		"state": "california",
+		"city": "Benicia",
+		"state": "California",
 		"location": {
-			"latitude": 38.049365,
-			"longitude": -122.158577
-		}
+			"latitude": 39.887445,
+			"longitude": -123.19922
+		},
+		"stateCode": "CA"
 	},
 	"708": {
 		"type": "local",
-		"city": "berwyn",
-		"state": "illinois",
+		"city": "Berwyn",
+		"state": "Illinois",
 		"location": {
-			"latitude": 41.850587,
-			"longitude": -87.793668
-		}
+			"latitude": 41.559062,
+			"longitude": -87.748494
+		},
+		"stateCode": "IL"
 	},
 	"712": {
 		"type": "local",
-		"city": "council bluffs",
-		"state": "iowa",
+		"city": "Council Bluffs",
+		"state": "Iowa",
 		"location": {
-			"latitude": 41.261944,
-			"longitude": -95.860833
-		}
+			"latitude": 42.23012,
+			"longitude": -95.418361
+		},
+		"stateCode": "IA"
 	},
 	"713": {
 		"type": "local",
-		"city": "houston",
-		"state": "texas",
+		"city": "Houston",
+		"state": "Texas",
 		"location": {
-			"latitude": 29.760426,
-			"longitude": -95.369802
-		}
+			"latitude": 29.837525,
+			"longitude": -95.377346
+		},
+		"stateCode": "TX"
 	},
 	"714": {
 		"type": "local",
-		"city": "anaheim",
-		"state": "california",
+		"city": "Anaheim",
+		"state": "California",
 		"location": {
-			"latitude": 33.835293,
-			"longitude": -117.914503
-		}
+			"latitude": 33.806316,
+			"longitude": -117.829679
+		},
+		"stateCode": "CA"
 	},
 	"715": {
 		"type": "local",
-		"city": "chippewa falls",
-		"state": "wisconsin",
+		"city": "Chippewa Falls",
+		"state": "Wisconsin",
 		"location": {
-			"latitude": 44.936905,
-			"longitude": -91.392934
-		}
+			"latitude": 45.417223,
+			"longitude": -90.43033
+		},
+		"stateCode": "WI"
 	},
 	"716": {
 		"type": "local",
-		"city": "cattaraugus",
-		"state": "new york",
+		"city": "Cattaraugus",
+		"state": "New York",
 		"location": {
-			"latitude": 42.329228,
-			"longitude": -78.868090
-		}
+			"latitude": 42.655359,
+			"longitude": -78.3959
+		},
+		"stateCode": "NY"
 	},
 	"717": {
 		"type": "local",
-		"city": "lancaster",
-		"state": "pennsylvania",
+		"city": "Lancaster",
+		"state": "Pennsylvania",
 		"location": {
-			"latitude": 40.037875,
-			"longitude": -76.305514
-		}
+			"latitude": 40.155116,
+			"longitude": -77.060091
+		},
+		"stateCode": "PA"
 	},
 	"718": {
 		"type": "local",
-		"city": "bellerose",
-		"state": "new york",
+		"city": "Bellerose",
+		"state": "New York",
 		"location": {
-			"latitude": 40.724370,
-			"longitude": -73.715401
-		}
+			"latitude": 40.685997,
+			"longitude": -73.935788
+		},
+		"stateCode": "NY"
 	},
 	"719": {
 		"type": "local",
-		"city": "alamosa",
-		"state": "colorado",
+		"city": "Alamosa",
+		"state": "Colorado",
 		"location": {
-			"latitude": 37.469449,
-			"longitude": -105.870021
-		}
+			"latitude": 38.164629,
+			"longitude": -104.339161
+		},
+		"stateCode": "CO"
 	},
 	"720": {
 		"type": "local",
-		"city": "boulder",
-		"state": "colorado",
+		"city": "Boulder",
+		"state": "Colorado",
 		"location": {
-			"latitude": 40.014985,
-			"longitude": -105.270545
-		}
-	},
-	"721": {
-		"type": "local",
-		"city": "marigot",
-		"state": "sint maarten",
-		"location": {
-			"latitude": 18.0731,
-			"longitude": -63.082200
-		}
+			"latitude": 39.713461,
+			"longitude": -104.82857
+		},
+		"stateCode": "CO"
 	},
 	"724": {
 		"type": "local",
-		"city": "new castle",
-		"state": "pennsylvania",
+		"city": "New Castle",
+		"state": "Pennsylvania",
 		"location": {
-			"latitude": 41.003671,
-			"longitude": -80.347009
-		}
+			"latitude": 40.529223,
+			"longitude": -79.871479
+		},
+		"stateCode": "PA"
+	},
+	"725": {
+		"type": "local",
+		"stateCode": "NV",
+		"location": {
+			"latitude": 36.0391456,
+			"longitude": -114.9819235
+		},
+		"state": "Nevada",
+		"city": "Henderson"
+	},
+	"726": {
+		"type": "local",
+		"stateCode": "TX",
+		"location": {
+			"latitude": 29.4246002,
+			"longitude": -98.4951405
+		},
+		"state": "Texas",
+		"city": "San Antonio"
 	},
 	"727": {
 		"type": "local",
-		"city": "clearwater",
-		"state": "florida",
+		"city": "Clearwater",
+		"state": "Florida",
 		"location": {
-			"latitude": 27.965853,
-			"longitude": -82.800102
-		}
+			"latitude": 28.028726,
+			"longitude": -82.692597
+		},
+		"stateCode": "FL"
 	},
 	"730": {
 		"type": "local",
-		"city": "alton",
-		"state": "illinois",
+		"city": "Alton",
+		"state": "Illinois",
 		"location": {
 			"latitude": 38.890603,
 			"longitude": -90.184276
-		}
+		},
+		"stateCode": "IL"
 	},
 	"731": {
 		"type": "local",
-		"city": "jackson",
-		"state": "tennessee",
+		"city": "Jackson",
+		"state": "Tennessee",
 		"location": {
-			"latitude": 35.614516,
-			"longitude": -88.813946
-		}
+			"latitude": 35.791081,
+			"longitude": -88.774074
+		},
+		"stateCode": "TN"
 	},
 	"732": {
 		"type": "local",
-		"city": "brick township",
-		"state": "new jersey",
+		"city": "Brick Township",
+		"state": "New Jersey",
 		"location": {
-			"latitude": 40.057838,
-			"longitude": -74.137183
-		}
+			"latitude": 40.260509,
+			"longitude": -74.294553
+		},
+		"stateCode": "NJ"
 	},
 	"734": {
 		"type": "local",
-		"city": "ann arbor",
-		"state": "michigan",
+		"city": "Ann Arbor",
+		"state": "Michigan",
 		"location": {
-			"latitude": 42.280825,
-			"longitude": -83.743037
-		}
+			"latitude": 42.146633,
+			"longitude": -83.671962
+		},
+		"stateCode": "MI"
 	},
 	"737": {
 		"type": "local",
-		"city": "austin",
-		"state": "texas",
+		"city": "Austin",
+		"state": "Texas",
 		"location": {
 			"latitude": 30.267153,
-			"longitude": -97.743060
-		}
+			"longitude": -97.74306
+		},
+		"stateCode": "TX"
 	},
 	"740": {
 		"type": "local",
-		"city": "athens",
-		"state": "ohio",
+		"city": "Athens",
+		"state": "Ohio",
 		"location": {
-			"latitude": 39.329239,
-			"longitude": -82.101255
-		}
+			"latitude": 39.68925,
+			"longitude": -82.238329
+		},
+		"stateCode": "OH"
+	},
+	"743": {
+		"type": "local",
+		"city": "Greensboro",
+		"state": "North Carolina",
+		"location": {
+			"latitude": 36.0726355,
+			"longitude": -79.7919754
+		},
+		"stateCode": "NC"
 	},
 	"747": {
 		"type": "local",
-		"city": "burbank",
-		"state": "california",
+		"city": "Burbank",
+		"state": "California",
 		"location": {
 			"latitude": 34.180839,
 			"longitude": -118.308966
-		}
-	},
-	"752": {
-		"type": "local",
-		"city": "anaheim",
-		"state": "california",
-		"location": {
-			"latitude": 33.835293,
-			"longitude": -117.914503
-		}
+		},
+		"stateCode": "CA"
 	},
 	"754": {
 		"type": "local",
-		"city": "coral springs",
-		"state": "florida",
+		"city": "Coral Springs",
+		"state": "Florida",
 		"location": {
-			"latitude": 26.271192,
-			"longitude": -80.270604
-		}
+			"latitude": 26.150138,
+			"longitude": -80.486696
+		},
+		"stateCode": "FL"
 	},
 	"757": {
 		"type": "local",
-		"city": "chesapeake",
-		"state": "virginia",
+		"city": "Chesapeake",
+		"state": "Virginia",
 		"location": {
-			"latitude": 36.768208,
-			"longitude": -76.287492
-		}
-	},
-	"758": {
-		"type": "local",
-		"city": "castries",
-		"state": "saint lucia",
-		"location": {
-			"latitude": 14.010109,
-			"longitude": -60.987468
-		}
+			"latitude": 37.178366,
+			"longitude": -76.300123
+		},
+		"stateCode": "VA"
 	},
 	"760": {
 		"type": "local",
-		"city": "apple valley",
-		"state": "california",
+		"city": "Apple Valley",
+		"state": "California",
 		"location": {
-			"latitude": 34.500831,
-			"longitude": -117.185875
-		}
+			"latitude": 35.077329,
+			"longitude": -116.569262
+		},
+		"stateCode": "CA"
 	},
 	"762": {
 		"type": "local",
-		"city": "athens",
-		"state": "georgia",
+		"city": "Athens",
+		"state": "Georgia",
 		"location": {
-			"latitude": 33.951934,
-			"longitude": -83.357567
-		}
+			"latitude": 33.700602,
+			"longitude": -83.870619
+		},
+		"stateCode": "GA"
 	},
 	"763": {
 		"type": "local",
-		"city": "brooklyn park",
-		"state": "minnesota",
+		"city": "Brooklyn Park",
+		"state": "Minnesota",
 		"location": {
-			"latitude": 45.094131,
-			"longitude": -93.356340
-		}
-	},
-	"764": {
-		"type": "local",
-		"city": "daly city",
-		"state": "california",
-		"location": {
-			"latitude": 37.687924,
-			"longitude": -122.470207
-		}
+			"latitude": 45.322976,
+			"longitude": -93.54338
+		},
+		"stateCode": "MN"
 	},
 	"765": {
 		"type": "local",
-		"city": "kokomo",
-		"state": "indiana",
+		"city": "Kokomo",
+		"state": "Indiana",
 		"location": {
-			"latitude": 40.486427,
-			"longitude": -86.133603
-		}
-	},
-	"767": {
-		"type": "local",
-		"city": "roseau",
-		"state": "dominica",
-		"location": {
-			"latitude": 15.301389,
-			"longitude": -61.388333
-		}
+			"latitude": 40.097063,
+			"longitude": -86.177642
+		},
+		"stateCode": "IN"
 	},
 	"769": {
 		"type": "local",
-		"city": "hattiesburg",
-		"state": "mississippi",
+		"city": "Hattiesburg",
+		"state": "Mississippi",
 		"location": {
-			"latitude": 31.327118,
-			"longitude": -89.290339
-		}
+			"latitude": 31.765804,
+			"longitude": -89.761592
+		},
+		"stateCode": "MS"
 	},
 	"770": {
 		"type": "local",
-		"city": "atlanta",
-		"state": "georgia",
+		"city": "Atlanta",
+		"state": "Georgia",
 		"location": {
-			"latitude": 33.748995,
-			"longitude": -84.387982
-		}
+			"latitude": 33.777593,
+			"longitude": -84.447258
+		},
+		"stateCode": "GA"
 	},
 	"772": {
 		"type": "local",
-		"city": "port st. lucie",
-		"state": "florida",
+		"city": "Port St. Lucie",
+		"state": "Florida",
 		"location": {
-			"latitude": 27.273049,
-			"longitude": -80.358226
-		}
+			"latitude": 27.310037,
+			"longitude": -80.462545
+		},
+		"stateCode": "FL"
 	},
 	"773": {
 		"type": "local",
-		"city": "chicago",
-		"state": "illinois",
+		"city": "Chicago",
+		"state": "Illinois",
 		"location": {
-			"latitude": 41.878113,
-			"longitude": -87.629798
-		}
+			"latitude": 41.826251,
+			"longitude": -87.675835
+		},
+		"stateCode": "IL"
 	},
 	"774": {
 		"type": "local",
-		"city": "brockton",
-		"state": "massachusetts",
+		"city": "Brockton",
+		"state": "Massachusetts",
 		"location": {
-			"latitude": 42.083433,
-			"longitude": -71.018378
-		}
+			"latitude": 41.857075,
+			"longitude": -70.96184
+		},
+		"stateCode": "MA"
 	},
 	"775": {
 		"type": "local",
-		"city": "carson city",
-		"state": "nevada",
+		"city": "Carson City",
+		"state": "Nevada",
 		"location": {
-			"latitude": 39.163798,
-			"longitude": -119.767403
-		}
+			"latitude": 39.568474,
+			"longitude": -116.769254
+		},
+		"stateCode": "NV"
 	},
 	"779": {
 		"type": "local",
-		"city": "joliet",
-		"state": "illinois",
+		"city": "Joliet",
+		"state": "Illinois",
 		"location": {
-			"latitude": 41.525031,
-			"longitude": -88.081725
-		}
-	},
-	"780": {
-		"type": "local",
-		"city": "edmonton",
-		"state": "alberta",
-		"location": {
-			"latitude": 53.544389,
-			"longitude": -113.490926
-		}
+			"latitude": 41.605203,
+			"longitude": -88.918992
+		},
+		"stateCode": "IL"
 	},
 	"781": {
 		"type": "local",
-		"city": "lynn",
-		"state": "massachusetts",
+		"city": "Lynn",
+		"state": "Massachusetts",
 		"location": {
-			"latitude": 42.466763,
-			"longitude": -70.949493
-		}
-	},
-	"784": {
-		"type": "local",
-		"city": "kingstown",
-		"state": "saint vincent",
-		"location": {
-			"latitude": 13.157778,
-			"longitude": -61.224999
-		}
+			"latitude": 42.255792,
+			"longitude": -70.993819
+		},
+		"stateCode": "MA"
 	},
 	"785": {
 		"type": "local",
-		"city": "abilene",
-		"state": "kansas",
+		"city": "Abilene",
+		"state": "Kansas",
 		"location": {
-			"latitude": 38.917221,
-			"longitude": -97.213909
-		}
+			"latitude": 39.254088,
+			"longitude": -98.504536
+		},
+		"stateCode": "KS"
 	},
 	"786": {
 		"type": "local",
-		"city": "hialeah",
-		"state": "florida",
+		"city": "Hialeah",
+		"state": "Florida",
 		"location": {
-			"latitude": 25.857596,
-			"longitude": -80.278105
-		}
+			"latitude": 25.603078,
+			"longitude": -80.532102
+		},
+		"stateCode": "FL"
 	},
 	"800": {
 		"type": "toll-free",
@@ -2481,232 +2546,258 @@
 		"location": {
 			"latitude": null,
 			"longitude": null
-		}
+		},
+		"stateCode": null
 	},
 	"801": {
 		"type": "local",
-		"city": "ogden",
-		"state": "utah",
+		"city": "Ogden",
+		"state": "Utah",
 		"location": {
-			"latitude": 41.223,
-			"longitude": -111.973830
-		}
+			"latitude": 40.617162,
+			"longitude": -111.805673
+		},
+		"stateCode": "UT"
 	},
 	"802": {
 		"type": "local",
-		"city": "bennington",
-		"state": "vermont",
+		"city": "Bennington",
+		"state": "Vermont",
 		"location": {
-			"latitude": 42.878134,
-			"longitude": -73.196774
-		}
+			"latitude": 44.075223,
+			"longitude": -72.662746
+		},
+		"stateCode": "VT"
 	},
 	"803": {
 		"type": "local",
-		"city": "columbia",
-		"state": "south carolina",
+		"city": "Columbia",
+		"state": "South Carolina",
 		"location": {
-			"latitude": 34.000710,
-			"longitude": -81.034814
-		}
+			"latitude": 33.894777,
+			"longitude": -81.061539
+		},
+		"stateCode": "SC"
 	},
 	"804": {
 		"type": "local",
-		"city": "mechanicsville",
-		"state": "virginia",
+		"city": "Mechanicsville",
+		"state": "Virginia",
 		"location": {
-			"latitude": 37.608756,
-			"longitude": -77.373313
-		}
+			"latitude": 37.425718,
+			"longitude": -77.980823
+		},
+		"stateCode": "VA"
 	},
 	"805": {
 		"type": "local",
-		"city": "camarillo",
-		"state": "california",
+		"city": "Camarillo",
+		"state": "California",
 		"location": {
-			"latitude": 34.216393,
-			"longitude": -119.037602
-		}
+			"latitude": 34.953333,
+			"longitude": -120.148748
+		},
+		"stateCode": "CA"
 	},
 	"806": {
 		"type": "local",
-		"city": "amarillo",
-		"state": "texas",
+		"city": "Amarillo",
+		"state": "Texas",
 		"location": {
-			"latitude": 35.221997,
-			"longitude": -101.831296
-		}
-	},
-	"807": {
-		"type": "local",
-		"city": "thunber bay",
-		"state": "ontario",
-		"location": {
-			"latitude": 48.380895,
-			"longitude": -89.247682
-		}
+			"latitude": 34.662259,
+			"longitude": -101.598817
+		},
+		"stateCode": "TX"
 	},
 	"808": {
 		"type": "local",
-		"city": "honolulu",
-		"state": "hawaii",
+		"city": "Honolulu",
+		"state": "Hawaii",
 		"location": {
-			"latitude": 21.306944,
-			"longitude": -157.858333
-		}
-	},
-	"809": {
-		"type": "local",
-		"city": "santo domingo",
-		"state": "dominican republic",
-		"location": {
-			"latitude": 18.466667,
-			"longitude": -69.95
-		}
+			"latitude": 20.663335,
+			"longitude": -157.330668
+		},
+		"stateCode": "HI"
 	},
 	"810": {
 		"type": "local",
-		"city": "flint",
-		"state": "michigan",
+		"city": "Flint",
+		"state": "Michigan",
 		"location": {
-			"latitude": 43.012527,
-			"longitude": -83.687456
-		}
+			"latitude": 42.982601,
+			"longitude": -83.195787
+		},
+		"stateCode": "MI"
 	},
 	"812": {
 		"type": "local",
-		"city": "bloomington",
-		"state": "indiana",
+		"city": "Bloomington",
+		"state": "Indiana",
 		"location": {
-			"latitude": 39.165325,
-			"longitude": -86.526385
-		}
+			"latitude": 38.738487,
+			"longitude": -86.516889
+		},
+		"stateCode": "IN"
 	},
 	"813": {
 		"type": "local",
-		"city": "tampa",
-		"state": "florida",
+		"city": "Tampa",
+		"state": "Florida",
 		"location": {
-			"latitude": 27.950575,
-			"longitude": -82.457177
-		}
+			"latitude": 28.006915,
+			"longitude": -82.355531
+		},
+		"stateCode": "FL"
 	},
 	"814": {
 		"type": "local",
-		"city": "erie",
-		"state": "pennsylvania",
+		"city": "Erie",
+		"state": "Pennsylvania",
 		"location": {
-			"latitude": 42.129224,
-			"longitude": -80.085059
-		}
+			"latitude": 41.113357,
+			"longitude": -78.776102
+		},
+		"stateCode": "PA"
 	},
 	"815": {
 		"type": "local",
-		"city": "joliet",
-		"state": "illinois",
+		"city": "Joliet",
+		"state": "Illinois",
 		"location": {
-			"latitude": 41.525031,
-			"longitude": -88.081725
-		}
+			"latitude": 41.605203,
+			"longitude": -88.918992
+		},
+		"stateCode": "IL"
 	},
 	"816": {
 		"type": "local",
-		"city": "kansas city",
-		"state": "missouri",
+		"city": "Kansas City",
+		"state": "Missouri",
 		"location": {
-			"latitude": 39.099726,
-			"longitude": -94.578566
-		}
+			"latitude": 39.305594,
+			"longitude": -94.409307
+		},
+		"stateCode": "MO"
 	},
 	"817": {
 		"type": "local",
-		"city": "arlington",
-		"state": "texas",
+		"city": "Arlington",
+		"state": "Texas",
 		"location": {
-			"latitude": 32.735687,
-			"longitude": -97.108065
-		}
+			"latitude": 32.655169,
+			"longitude": -97.488648
+		},
+		"stateCode": "TX"
 	},
 	"818": {
 		"type": "local",
-		"city": "agoura hills",
-		"state": "california",
+		"city": "Agoura Hills",
+		"state": "California",
 		"location": {
-			"latitude": 34.153339,
-			"longitude": -118.761676
-		}
+			"latitude": 34.246629,
+			"longitude": -118.38236
+		},
+		"stateCode": "CA"
 	},
-	"819": {
+	"820": {
 		"type": "local",
-		"city": "drummondville",
-		"state": "quebec",
+		"city": "Camarillo",
+		"state": "California",
 		"location": {
-			"latitude": 45.880290,
-			"longitude": -72.484282
-		}
+			"latitude": 34.2164099,
+			"longitude": -119.0376573
+		},
+		"stateCode": "CA"
+	},
+	"822": {
+		"type": "toll-free",
+		"city": null,
+		"state": null,
+		"location": {
+			"latitude": null,
+			"longitude": null
+		},
+		"stateCode": null
 	},
 	"828": {
 		"type": "local",
-		"city": "asheville",
-		"state": "north carolina",
+		"city": "Asheville",
+		"state": "North Carolina",
 		"location": {
-			"latitude": 35.595058,
-			"longitude": -82.551486
-		}
-	},
-	"829": {
-		"type": "local",
-		"city": "santo domingo",
-		"state": "dominican republic",
-		"location": {
-			"latitude": 18.466667,
-			"longitude": -69.95
-		}
+			"latitude": 35.565318,
+			"longitude": -82.543935
+		},
+		"stateCode": "NC"
 	},
 	"830": {
 		"type": "local",
-		"city": "medina",
-		"state": "texas",
+		"city": "Medina",
+		"state": "Texas",
 		"location": {
-			"latitude": 29.797249,
-			"longitude": -99.248516
-		}
+			"latitude": 29.405036,
+			"longitude": -99.279701
+		},
+		"stateCode": "TX"
 	},
 	"831": {
 		"type": "local",
-		"city": "salinas",
-		"state": "california",
+		"city": "Salinas",
+		"state": "California",
 		"location": {
-			"latitude": 36.677737,
-			"longitude": -121.655501
-		}
+			"latitude": 36.517724,
+			"longitude": -121.279329
+		},
+		"stateCode": "CA"
 	},
 	"832": {
 		"type": "local",
-		"city": "baytown",
-		"state": "texas",
+		"city": "Baytown",
+		"state": "Texas",
 		"location": {
-			"latitude": 29.735504,
-			"longitude": -94.977427
-		}
+			"latitude": 29.837525,
+			"longitude": -95.377346
+		},
+		"stateCode": "TX"
 	},
-	"835": {
-		"type": "local",
-		"city": "bethlehem",
-		"state": "pennsylvania",
+	"833": {
+		"type": "toll-free",
+		"city": null,
+		"state": null,
 		"location": {
-			"latitude": 40.625931,
-			"longitude": -75.370457
-		}
+			"latitude": null,
+			"longitude": null
+		},
+		"stateCode": null
+	},
+	"838": {
+		"type": "local",
+		"city": "Albany",
+		"state": "New York",
+		"location": {
+			"latitude": 42.6511674,
+			"longitude": -73.754968
+		},
+		"stateCode": "NY"
+	},
+	"839": {
+		"type": "local",
+		"city": "Columbia",
+		"state": "South Carolina",
+		"location": {
+			"latitude": 34.0007493,
+			"longitude": -81.0343313
+		},
+		"stateCode": "SC"
 	},
 	"843": {
 		"type": "local",
-		"city": "charleston",
-		"state": "south carolina",
+		"city": "Charleston",
+		"state": "South Carolina",
 		"location": {
-			"latitude": 32.776474,
-			"longitude": -79.931051
-		}
+			"latitude": 33.551999,
+			"longitude": -80.080251
+		},
+		"stateCode": "SC"
 	},
 	"844": {
 		"type": "toll-free",
@@ -2715,51 +2806,57 @@
 		"location": {
 			"latitude": null,
 			"longitude": null
-		}
+		},
+		"stateCode": null
 	},
 	"845": {
 		"type": "local",
-		"city": "kingston",
-		"state": "new york",
+		"city": "Kingston",
+		"state": "New York",
 		"location": {
-			"latitude": 41.927036,
-			"longitude": -73.997360
-		}
+			"latitude": 41.68195,
+			"longitude": -74.259071
+		},
+		"stateCode": "NY"
 	},
 	"847": {
 		"type": "local",
-		"city": "arlington heights",
-		"state": "illinois",
+		"city": "Arlington Heights",
+		"state": "Illinois",
 		"location": {
-			"latitude": 42.088360,
-			"longitude": -87.980626
-		}
+			"latitude": 42.195629,
+			"longitude": -88.103663
+		},
+		"stateCode": "IL"
 	},
 	"848": {
 		"type": "local",
-		"city": "brick township",
-		"state": "new jersey",
+		"city": "Brick Township",
+		"state": "New Jersey",
 		"location": {
-			"latitude": 40.057838,
-			"longitude": -74.137183
-		}
-	},
-	"849": {
-		"type": "local",
-		"city": "santo domingo",
-		"state": "dominican republic",
-		"location": {
-			"latitude": 18.466667,
-			"longitude": -69.95
-		}
+			"latitude": 40.260509,
+			"longitude": -74.294553
+		},
+		"stateCode": "NJ"
 	},
 	"850": {
 		"type": "local",
-		"city": "pensacola",
-		"state": "florida",
+		"city": "Pensacola",
+		"state": "Florida",
 		"location": {
-			"latitude": 30.421308,
-			"longitude": -87.216914
+			"latitude": 30.35353,
+			"longitude": -85.304696
+		},
+		"stateCode": "FL"
+	},
+	"854": {
+		"type": "local",
+		"city": "Charleston",
+		"state": "South Carolina",
+		"stateCode": "SC",
+		"location": {
+			"latitude": 32.7876012,
+			"longitude": -79.9402728
 		}
 	},
 	"855": {
@@ -2769,88 +2866,98 @@
 		"location": {
 			"latitude": null,
 			"longitude": null
-		}
+		},
+		"stateCode": null
 	},
 	"856": {
 		"type": "local",
-		"city": "camden",
-		"state": "new jersey",
+		"city": "Camden",
+		"state": "New Jersey",
 		"location": {
-			"latitude": 39.925946,
-			"longitude": -75.119619
-		}
+			"latitude": 39.597545,
+			"longitude": -75.137975
+		},
+		"stateCode": "NJ"
 	},
 	"857": {
 		"type": "local",
-		"city": "boston",
-		"state": "massachusetts",
+		"city": "Boston",
+		"state": "Massachusetts",
 		"location": {
-			"latitude": 42.360082,
-			"longitude": -71.058880
-		}
+			"latitude": 42.319045,
+			"longitude": -71.093525
+		},
+		"stateCode": "MA"
 	},
 	"858": {
 		"type": "local",
-		"city": "san diego",
-		"state": "california",
+		"city": "San Diego",
+		"state": "California",
 		"location": {
-			"latitude": 32.715738,
-			"longitude": -117.161083
-		}
+			"latitude": 32.930564,
+			"longitude": -117.134845
+		},
+		"stateCode": "CA"
 	},
 	"859": {
 		"type": "local",
-		"city": "lexington",
-		"state": "kentucky",
+		"city": "Lexington",
+		"state": "Kentucky",
 		"location": {
-			"latitude": 38.040583,
-			"longitude": -84.503716
-		}
+			"latitude": 38.19049,
+			"longitude": -84.492289
+		},
+		"stateCode": "KY"
 	},
 	"860": {
 		"type": "local",
-		"city": "bristol",
-		"state": "connecticut",
+		"city": "Bristol",
+		"state": "Connecticut",
 		"location": {
-			"latitude": 41.671764,
-			"longitude": -72.949270
-		}
+			"latitude": 41.684526,
+			"longitude": -72.617608
+		},
+		"stateCode": "CT"
 	},
 	"862": {
 		"type": "local",
-		"city": "clifton",
-		"state": "new jersey",
+		"city": "Clifton",
+		"state": "New Jersey",
 		"location": {
-			"latitude": 40.858432,
-			"longitude": -74.163755
-		}
+			"latitude": 41.006143,
+			"longitude": -74.52237
+		},
+		"stateCode": "NJ"
 	},
 	"863": {
 		"type": "local",
-		"city": "lakeland",
-		"state": "florida",
+		"city": "Lakeland",
+		"state": "Florida",
 		"location": {
-			"latitude": 28.039465,
-			"longitude": -81.949804
-		}
+			"latitude": 27.325409,
+			"longitude": -81.391146
+		},
+		"stateCode": "FL"
 	},
 	"864": {
 		"type": "local",
-		"city": "greenville",
-		"state": "south carolina",
+		"city": "Greenville",
+		"state": "South Carolina",
 		"location": {
-			"latitude": 34.852617,
-			"longitude": -82.394010
-		}
+			"latitude": 34.597028,
+			"longitude": -82.268514
+		},
+		"stateCode": "SC"
 	},
 	"865": {
 		"type": "local",
-		"city": "knoxville",
-		"state": "tennessee",
+		"city": "Knoxville",
+		"state": "Tennessee",
 		"location": {
-			"latitude": 35.960638,
-			"longitude": -83.920739
-		}
+			"latitude": 35.931336,
+			"longitude": -83.90434
+		},
+		"stateCode": "TN"
 	},
 	"866": {
 		"type": "toll-free",
@@ -2859,52 +2966,28 @@
 		"location": {
 			"latitude": null,
 			"longitude": null
-		}
-	},
-	"867": {
-		"type": "local",
-		"city": "white horse",
-		"state": "northwest territories",
-		"location": {
-			"latitude": 46.227742,
-			"longitude": -68.597586
-		}
-	},
-	"868": {
-		"type": "local",
-		"city": "chaguanas",
-		"state": "trinidad and tobago",
-		"location": {
-			"latitude": 10.516838,
-			"longitude": -61.411448
-		}
-	},
-	"869": {
-		"type": "local",
-		"city": "basseterre",
-		"state": "saint kitts and nevis",
-		"location": {
-			"latitude": 17.302605,
-			"longitude": -62.717692
-		}
+		},
+		"stateCode": null
 	},
 	"870": {
 		"type": "local",
-		"city": "jonesboro",
-		"state": "arkansas",
+		"city": "Jonesboro",
+		"state": "Arkansas",
 		"location": {
-			"latitude": 35.842296,
-			"longitude": -90.704279
-		}
+			"latitude": 34.729392,
+			"longitude": -92.083437
+		},
+		"stateCode": "AR"
 	},
 	"872": {
 		"type": "local",
-		"city": "chicago",
-		"state": "illinois",
+		"city": "Chicago",
+		"state": "Illinois",
 		"location": {
 			"latitude": 41.878113,
 			"longitude": -87.629798
-		}
+		},
+		"stateCode": "IL"
 	},
 	"877": {
 		"type": "toll-free",
@@ -2913,25 +2996,98 @@
 		"location": {
 			"latitude": null,
 			"longitude": null
-		}
-	},
-	"876": {
-		"type": "local",
-		"city": "kingston",
-		"state": "jamaica",
-		"location": {
-			"latitude": 17.983333,
-			"longitude": -76.8
-		}
+		},
+		"stateCode": null
 	},
 	"878": {
 		"type": "local",
-		"city": "pittsburgh",
-		"state": "pennsylvania",
+		"city": "Pittsburgh",
+		"state": "Pennsylvania",
 		"location": {
-			"latitude": 40.440624,
-			"longitude": -79.995886
-		}
+			"latitude": 40.523255,
+			"longitude": -79.878626
+		},
+		"stateCode": "PA"
+	},
+	"880": {
+		"type": "toll-free",
+		"city": null,
+		"state": null,
+		"location": {
+			"latitude": null,
+			"longitude": null
+		},
+		"stateCode": null
+	},
+	"881": {
+		"type": "toll-free",
+		"city": null,
+		"state": null,
+		"location": {
+			"latitude": null,
+			"longitude": null
+		},
+		"stateCode": null
+	},
+	"882": {
+		"type": "toll-free",
+		"city": null,
+		"state": null,
+		"location": {
+			"latitude": null,
+			"longitude": null
+		},
+		"stateCode": null
+	},
+	"883": {
+		"type": "toll-free",
+		"city": null,
+		"state": null,
+		"location": {
+			"latitude": null,
+			"longitude": null
+		},
+		"stateCode": null
+	},
+	"884": {
+		"type": "toll-free",
+		"city": null,
+		"state": null,
+		"location": {
+			"latitude": null,
+			"longitude": null
+		},
+		"stateCode": null
+	},
+	"885": {
+		"type": "toll-free",
+		"city": null,
+		"state": null,
+		"location": {
+			"latitude": null,
+			"longitude": null
+		},
+		"stateCode": null
+	},
+	"886": {
+		"type": "toll-free",
+		"city": null,
+		"state": null,
+		"location": {
+			"latitude": null,
+			"longitude": null
+		},
+		"stateCode": null
+	},
+	"887": {
+		"type": "toll-free",
+		"city": null,
+		"state": null,
+		"location": {
+			"latitude": null,
+			"longitude": null
+		},
+		"stateCode": null
 	},
 	"888": {
 		"type": "toll-free",
@@ -2940,429 +3096,487 @@
 		"location": {
 			"latitude": null,
 			"longitude": null
-		}
+		},
+		"stateCode": null
+	},
+	"889": {
+		"type": "toll-free",
+		"city": null,
+		"state": null,
+		"location": {
+			"latitude": null,
+			"longitude": null
+		},
+		"stateCode": null
 	},
 	"901": {
 		"type": "local",
-		"city": "memphis",
-		"state": "tennessee",
+		"city": "Memphis",
+		"state": "Tennessee",
 		"location": {
-			"latitude": 35.149534,
-			"longitude": -90.048980
-		}
+			"latitude": 35.264514,
+			"longitude": -89.686114
+		},
+		"stateCode": "TN"
 	},
 	"903": {
 		"type": "local",
-		"city": "longview",
-		"state": "texas",
+		"city": "Longview",
+		"state": "Texas",
 		"location": {
-			"latitude": 32.500703,
-			"longitude": -94.740489
-		}
+			"latitude": 32.705051,
+			"longitude": -95.389774
+		},
+		"stateCode": "TX"
 	},
 	"904": {
 		"type": "local",
-		"city": "jacksonville",
-		"state": "florida",
+		"city": "Jacksonville",
+		"state": "Florida",
 		"location": {
-			"latitude": 30.332183,
-			"longitude": -81.655650
-		}
-	},
-	"905": {
-		"type": "local",
-		"city": "brampton",
-		"state": "ontario",
-		"location": {
-			"latitude": 43.731547,
-			"longitude": -79.762417
-		}
+			"latitude": 30.236743,
+			"longitude": -81.824942
+		},
+		"stateCode": "FL"
 	},
 	"906": {
 		"type": "local",
-		"city": "sault ste marie",
-		"state": "michigan",
+		"city": "Sault Ste Marie",
+		"state": "Michigan",
 		"location": {
-			"latitude": 46.495299,
-			"longitude": -84.345316
-		}
+			"latitude": 46.534917,
+			"longitude": -87.28168
+		},
+		"stateCode": "MI"
 	},
 	"907": {
 		"type": "local",
-		"city": "anchorage",
-		"state": "alaska",
+		"city": "Anchorage",
+		"state": "Alaska",
 		"location": {
-			"latitude": 61.218055,
-			"longitude": -149.900277
-		}
+			"latitude": 58.127197,
+			"longitude": -48.192896
+		},
+		"stateCode": "AK"
 	},
 	"908": {
 		"type": "local",
-		"city": "elizabeth",
-		"state": "alaska",
+		"city": "Washington Township",
+		"state": "New Jersey",
 		"location": {
-			"latitude": 61.562067,
-			"longitude": -149.693819
-		}
+			"latitude": 40.69626,
+			"longitude": -74.815628
+		},
+		"stateCode": "NJ"
 	},
 	"909": {
 		"type": "local",
-		"city": "anaheim",
-		"state": "california",
+		"city": "Anaheim",
+		"state": "California",
 		"location": {
-			"latitude": 33.835293,
-			"longitude": -117.914503
-		}
+			"latitude": 34.10515,
+			"longitude": -117.298597
+		},
+		"stateCode": "CA"
 	},
 	"910": {
 		"type": "local",
-		"city": "fayetteville",
-		"state": "north carolina",
+		"city": "Fayetteville",
+		"state": "North Carolina",
 		"location": {
-			"latitude": 35.052664,
-			"longitude": -78.878358
-		}
+			"latitude": 34.75927,
+			"longitude": -78.576525
+		},
+		"stateCode": "NC"
 	},
 	"912": {
 		"type": "local",
-		"city": "savannah",
-		"state": "georgia",
+		"city": "Savannah",
+		"state": "Georgia",
 		"location": {
-			"latitude": 32.083540,
-			"longitude": -81.099834
-		}
+			"latitude": 31.668541,
+			"longitude": -82.04476
+		},
+		"stateCode": "GA"
 	},
 	"913": {
 		"type": "local",
-		"city": "kansas city",
-		"state": "kansas",
+		"city": "Kansas City",
+		"state": "Kansas",
 		"location": {
-			"latitude": 39.114053,
-			"longitude": -94.627463
-		}
+			"latitude": 38.895648,
+			"longitude": -94.985871
+		},
+		"stateCode": "KS"
 	},
 	"914": {
 		"type": "local",
-		"city": "mount vernon",
-		"state": "new york",
+		"city": "Mount Vernon",
+		"state": "New York",
 		"location": {
-			"latitude": 40.912599,
-			"longitude": -73.837078
-		}
+			"latitude": 41.155343,
+			"longitude": -73.749733
+		},
+		"stateCode": "NY"
 	},
 	"915": {
 		"type": "local",
-		"city": "el paso",
-		"state": "texas",
+		"city": "El Paso",
+		"state": "Texas",
 		"location": {
-			"latitude": 31.777575,
-			"longitude": -106.442455
-		}
+			"latitude": 31.51532,
+			"longitude": -105.177627
+		},
+		"stateCode": "TX"
 	},
 	"916": {
 		"type": "local",
-		"city": "elk grove",
-		"state": "california",
+		"city": "Elk Grove",
+		"state": "California",
 		"location": {
-			"latitude": 38.408799,
-			"longitude": -121.371617
-		}
+			"latitude": 38.575174,
+			"longitude": -121.35713
+		},
+		"stateCode": "CA"
 	},
 	"917": {
 		"type": "local",
-		"city": "new york city",
-		"state": "new york",
+		"city": "New York City",
+		"state": "New York",
 		"location": {
-			"latitude": 40.712783,
-			"longitude": -74.005941
-		}
+			"latitude": 40.685997,
+			"longitude": -73.935788
+		},
+		"stateCode": "NY"
 	},
 	"918": {
 		"type": "local",
-		"city": "broken arrow",
-		"state": "oklahoma",
+		"city": "Broken Arrow",
+		"state": "Oklahoma",
 		"location": {
-			"latitude": 36.060949,
-			"longitude": -95.797452
-		}
+			"latitude": 35.820098,
+			"longitude": -95.585892
+		},
+		"stateCode": "OK"
 	},
 	"919": {
 		"type": "local",
-		"city": "cary",
-		"state": "north carolina",
+		"city": "Cary",
+		"state": "North Carolina",
 		"location": {
-			"latitude": 35.79154,
-			"longitude": -78.781116
-		}
+			"latitude": 35.763046,
+			"longitude": -78.665239
+		},
+		"stateCode": "NC"
 	},
 	"920": {
 		"type": "local",
-		"city": "appleton",
-		"state": "wisconsin",
+		"city": "Appleton",
+		"state": "Wisconsin",
 		"location": {
-			"latitude": 44.261930,
-			"longitude": -88.415384
-		}
+			"latitude": 44.203386,
+			"longitude": -88.282572
+		},
+		"stateCode": "WI"
 	},
 	"925": {
 		"type": "local",
-		"city": "antioch",
-		"state": "california",
+		"city": "Antioch",
+		"state": "California",
 		"location": {
-			"latitude": 38.004921,
-			"longitude": -121.805789
-		}
-	},
-	"927": {
-		"type": "local",
-		"city": "orlando",
-		"state": "florida",
-		"location": {
-			"latitude": 28.538335,
-			"longitude": -81.379236
-		}
+			"latitude": 37.831956,
+			"longitude": -121.839538
+		},
+		"stateCode": "CA"
 	},
 	"928": {
 		"type": "local",
-		"city": "flagstaff",
-		"state": "arizona",
+		"city": "Flagstaff",
+		"state": "Arizona",
 		"location": {
-			"latitude": 35.198283,
-			"longitude": -111.651302
-		}
+			"latitude": 34.795062,
+			"longitude": -111.803747
+		},
+		"stateCode": "AZ"
+	},
+	"929": {
+		"type": "local",
+		"city": "Bellerose",
+		"state": "New York",
+		"location": {
+			"latitude": 40.724269,
+			"longitude": -73.7151313
+		},
+		"stateCode": "NY"
+	},
+	"930": {
+		"type": "local",
+		"city": "Bloomington",
+		"state": "Indiana",
+		"location": {
+			"latitude": 39.1670396,
+			"longitude": -86.5342881
+		},
+		"stateCode": "IN"
 	},
 	"931": {
 		"type": "local",
-		"city": "clarksville",
-		"state": "tennessee",
+		"city": "Clarksville",
+		"state": "Tennessee",
 		"location": {
-			"latitude": 36.529770,
-			"longitude": -87.359452
-		}
+			"latitude": 35.752962,
+			"longitude": -86.542593
+		},
+		"stateCode": "TN"
 	},
-	"935": {
+	"934": {
 		"type": "local",
-		"city": "san diego",
-		"state": "california",
+		"city": "Babylon",
+		"state": "New York",
 		"location": {
-			"latitude": 32.715738,
-			"longitude": -117.161083
-		}
+			"latitude": 40.74123595,
+			"longitude": -73.356691165361
+		},
+		"stateCode": "NY"
 	},
 	"936": {
 		"type": "local",
-		"city": "huntsville",
-		"state": "texas",
+		"city": "Huntsville",
+		"state": "Texas",
 		"location": {
-			"latitude": 30.723526,
-			"longitude": -95.550777
-		}
+			"latitude": 30.988685,
+			"longitude": -95.077769
+		},
+		"stateCode": "TX"
 	},
 	"937": {
 		"type": "local",
-		"city": "dayton",
-		"state": "ohio",
+		"city": "Dayton",
+		"state": "Ohio",
 		"location": {
-			"latitude": 39.758947,
-			"longitude": -84.191606
-		}
+			"latitude": 39.737478,
+			"longitude": -83.943091
+		},
+		"stateCode": "OH"
 	},
 	"938": {
 		"type": "local",
-		"city": "huntsville",
-		"state": "alabama",
+		"city": "Huntsville",
+		"state": "Alabama",
 		"location": {
 			"latitude": 34.730368,
 			"longitude": -86.586103
-		}
+		},
+		"stateCode": "AL"
 	},
 	"940": {
 		"type": "local",
-		"city": "denton",
-		"state": "texas",
+		"city": "Denton",
+		"state": "Texas",
 		"location": {
-			"latitude": 33.214841,
-			"longitude": -97.133068
-		}
+			"latitude": 33.567916,
+			"longitude": -98.775843
+		},
+		"stateCode": "TX"
 	},
 	"941": {
 		"type": "local",
-		"city": "sarasota",
-		"state": "florida",
+		"city": "Sarasota",
+		"state": "Florida",
 		"location": {
-			"latitude": 27.336434,
-			"longitude": -82.530652
-		}
+			"latitude": 26.49156,
+			"longitude": -81.666428
+		},
+		"stateCode": "FL"
 	},
 	"947": {
 		"type": "local",
-		"city": "farmington hills",
-		"state": "michigan",
+		"city": "Farmington Hills",
+		"state": "Michigan",
 		"location": {
-			"latitude": 42.498993,
-			"longitude": -83.367716
-		}
+			"latitude": 42.644892,
+			"longitude": -83.401584
+		},
+		"stateCode": "MI"
 	},
 	"949": {
 		"type": "local",
-		"city": "costa mesa",
-		"state": "california",
+		"city": "Costa Mesa",
+		"state": "California",
 		"location": {
-			"latitude": 33.641131,
-			"longitude": -117.918668
-		}
+			"latitude": 33.583881,
+			"longitude": -117.662376
+		},
+		"stateCode": "CA"
 	},
 	"951": {
 		"type": "local",
-		"city": "corona",
-		"state": "california",
+		"city": "Corona",
+		"state": "California",
 		"location": {
-			"latitude": 33.875293,
-			"longitude": -117.566438
-		}
+			"latitude": 33.725159,
+			"longitude": -117.067767
+		},
+		"stateCode": "CA"
 	},
 	"952": {
 		"type": "local",
-		"city": "bloomington",
-		"state": "minnesota",
+		"city": "Bloomington",
+		"state": "Minnesota",
 		"location": {
-			"latitude": 44.840798,
-			"longitude": -93.298279
-		}
+			"latitude": 44.748131,
+			"longitude": -93.595425
+		},
+		"stateCode": "MN"
 	},
 	"954": {
 		"type": "local",
-		"city": "fort lauderdale",
-		"state": "florida",
+		"city": "Fort Lauderdale",
+		"state": "Florida",
 		"location": {
-			"latitude": 26.122438,
-			"longitude": -80.137317
-		}
+			"latitude": 26.150138,
+			"longitude": -80.486696
+		},
+		"stateCode": "FL"
 	},
 	"956": {
 		"type": "local",
-		"city": "laredo",
-		"state": "texas",
+		"city": "Laredo",
+		"state": "Texas",
 		"location": {
-			"latitude": 27.530567,
-			"longitude": -99.480324
-		}
-	},
-	"957": {
-		"type": "local",
-		"city": "albuquerque",
-		"state": "new mexico",
-		"location": {
-			"latitude": 35.085333,
-			"longitude": -106.605553
-		}
+			"latitude": 27.029143,
+			"longitude": -98.567131
+		},
+		"stateCode": "TX"
 	},
 	"959": {
 		"type": "local",
-		"city": "hartford",
-		"state": "connecticut",
+		"city": "Hartford",
+		"state": "Connecticut",
 		"location": {
-			"latitude": 41.763711,
-			"longitude": -72.685093
-		}
+			"latitude": 41.684526,
+			"longitude": -72.617608
+		},
+		"stateCode": "CT"
 	},
 	"970": {
 		"type": "local",
-		"city": "durango",
-		"state": "colorado",
+		"city": "Durango",
+		"state": "Colorado",
 		"location": {
-			"latitude": 37.27528,
-			"longitude": -107.880066
-		}
+			"latitude": 39.516547,
+			"longitude": -106.512204
+		},
+		"stateCode": "CO"
 	},
 	"971": {
 		"type": "local",
-		"city": "beaverton",
-		"state": "oregon",
+		"city": "Beaverton",
+		"state": "Oregon",
 		"location": {
-			"latitude": 45.487061,
-			"longitude": -122.803710
-		}
+			"latitude": 45.196065,
+			"longitude": -122.70783
+		},
+		"stateCode": "OR"
 	},
 	"972": {
 		"type": "local",
-		"city": "carrollton",
-		"state": "texas",
+		"city": "Carrollton",
+		"state": "Texas",
 		"location": {
-			"latitude": 32.975641,
-			"longitude": -96.889963
-		}
+			"latitude": 32.771888,
+			"longitude": -96.647071
+		},
+		"stateCode": "TX"
 	},
 	"973": {
 		"type": "local",
-		"city": "newark",
-		"state": "new jersey",
+		"city": "Newark",
+		"state": "New Jersey",
 		"location": {
-			"latitude": 40.735657,
-			"longitude": -74.172366
-		}
+			"latitude": 41.006143,
+			"longitude": -74.52237
+		},
+		"stateCode": "NJ"
 	},
 	"975": {
 		"type": "local",
-		"city": "kansas city",
-		"state": "missouri",
+		"city": "Kansas City",
+		"state": "Missouri",
 		"location": {
 			"latitude": 39.099726,
 			"longitude": -94.578566
-		}
+		},
+		"stateCode": "MO"
 	},
 	"978": {
 		"type": "local",
-		"city": "haverhill",
-		"state": "massachusetts",
+		"city": "Haverhill",
+		"state": "Massachusetts",
 		"location": {
-			"latitude": 42.776201,
-			"longitude": -71.077279
-		}
+			"latitude": 42.587448,
+			"longitude": -71.595462
+		},
+		"stateCode": "MA"
 	},
 	"979": {
 		"type": "local",
-		"city": "bryan",
-		"state": "texas",
+		"city": "Bryan",
+		"state": "Texas",
 		"location": {
-			"latitude": 30.674364,
-			"longitude": -96.369963
-		}
+			"latitude": 29.834233,
+			"longitude": -96.309235
+		},
+		"stateCode": "TX"
 	},
 	"980": {
 		"type": "local",
-		"city": "charlotte",
-		"state": "north carolina",
+		"city": "Charlotte",
+		"state": "North Carolina",
 		"location": {
-			"latitude": 35.227086,
-			"longitude": -80.843126
-		}
+			"latitude": 35.343951,
+			"longitude": -80.734736
+		},
+		"stateCode": "NC"
 	},
 	"984": {
 		"type": "local",
-		"city": "raleigh",
-		"state": "north carolina",
+		"city": "Raleigh",
+		"state": "North Carolina",
 		"location": {
 			"latitude": 35.779589,
 			"longitude": -78.638178
-		}
+		},
+		"stateCode": "NC"
 	},
 	"985": {
 		"type": "local",
-		"city": "hammond",
-		"state": "louisiana",
+		"city": "Hammond",
+		"state": "Louisiana",
 		"location": {
-			"latitude": 30.504358,
-			"longitude": -90.461199
-		}
+			"latitude": 29.898815,
+			"longitude": -90.319067
+		},
+		"stateCode": "LA"
+	},
+	"986": {
+		"type": "local",
+		"city": "Boise",
+		"state": "Idaho",
+		"location": {
+			"latitude": 43.61656,
+			"longitude": -116.200835
+		},
+		"stateCode": "ID"
 	},
 	"989": {
 		"type": "local",
-		"city": "alma",
-		"state": "michigan",
+		"city": "Alma",
+		"state": "Michigan",
 		"location": {
-			"latitude": 43.378919,
-			"longitude": -84.659727
-		}
+			"latitude": 44.097502,
+			"longitude": -84.120784
+		},
+		"stateCode": "MI"
 	}
 }

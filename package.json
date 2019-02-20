@@ -1,12 +1,20 @@
 {
 	"name": "areacodes",
 	"description": "An area code lookup tool. Query by phone number, or just export the entire list in object form.",
-	"version": "0.1.2",
+	"version": "0.2.0",
 	"author": "Anthony Hildoer <anthony@bluerival.com>",
 	"contributors": [
 		{
+			"name": "Anthony Hildoer",
+			"email": "anthony@bluerival.com"
+		},
+		{
 			"name": "Andy Coenen",
 			"email": "andrew.coenen@gmail.com"
+		},
+		{
+			"name": "Seth Rogers",
+			"email": "sethhrogers@gmail.com"
 		}
 	],
 	"repository": {
@@ -14,17 +22,30 @@
 		"url": "git@github.com:BlueRival/node-areacodes.git"
 	},
 	"dependencies": {
-		"doublescore": "0.0.3"
+		"doublescore": "0.3.7"
 	},
 	"devDependencies": {
-		"mocha": "2.0.1"
+		"@turf/turf": "^5.1.6",
+		"async": "2.6.2",
+		"cheerio": "^1.0.0-rc.2",
+		"csv-parser": "2.1.0",
+		"mocha": "6.0.0",
+		"request": "2.88.0",
+		"shapefile": "0.6.6"
 	},
 	"keywords": [
-		"areacode"
+		"areacode",
+		"gps",
+		"geocoding",
+		"city",
+		"state"
 	],
 	"main": "lib/areacodes.js",
 	"engines": {
-		"node": ">=0.10.0"
+		"node": ">=6.0.0"
+	},
+	"scripts": {
+		"test": "./node_modules/mocha/bin/mocha --reporter=landing --exit --bail"
 	},
 	"license": "MIT"
 }
